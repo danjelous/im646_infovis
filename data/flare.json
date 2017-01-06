@@ -1,1040 +1,3457 @@
-{
-  "name": "flare",
-  "children": [
-    {
-      "name": "analytics",
-      "children": [
-        {
-          "name": "cluster",
-          "children": [
-            {
-              "name": "AgglomerativeCluster",
-              "size": 3938
+{  
+   "name":"flare",
+   "children":[  
+      {  
+         "name":"North-America",
+         "children":[  
+            {  
+               "name":"USA",
+               "children":[  
+                  {  
+                     "name":"Shares border with",
+                     "children":[  
+                        {  
+                           "name":"Mexico",
+                           "size":698
+                        },
+                        {  
+                           "name":"Canada",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Russia",
+                           "size":853
+                        },
+                        {  
+                           "name":"Cuba",
+                           "size":5569
+                        },
+                        {  
+                           "name":"The Bahamas",
+                           "size":353
+                        },
+                        {  
+                           "name":"Venezuela",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Dominican Republic",
+                           "size":353
+                        },
+                        {  
+                           "name":"Federated States of Micronesia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Japan",
+                           "size":353
+                        },
+                        {  
+                           "name":"Kiribati",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Haiti",
+                           "size":353
+                        },
+                        {  
+                           "name":"Samoa",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Tonga",
+                           "size":2247
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Demonym",
+                     "children":[  
+                        {  
+                           "name":"American (English)",
+                           "size":698
+                        },
+                        {  
+                           "name":"Américain (French)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Américaine (French)",
+                           "size":853
+                        },
+                        {  
+                           "name":"アメリカ人 (Japanese)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"米国人 (Japanese)",
+                           "size":353
+                        },
+                        {  
+                           "name":"US-Amerikaner (German)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"US-Amerikanerin (German)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Amerikaner (German)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Amerikanerin (German)",
+                           "size":353
+                        },
+                        {  
+                           "name":"American (Romanian)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Americancă (Romanian)",
+                           "size":353
+                        },
+                        {  
+                           "name":"estadounidense (Spanish)",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Американац (Serbian)",
+                           "size":2247
+                        },
+                        {  
+                           "name":"amerikan (Swedish)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"amerikai (Hungarian)",
+                           "size":853
+                        },
+                        {  
+                           "name":"Αμερικανός (Greek)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Αμερικανή (Greek)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Αμερικανοί (Greek)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"estatunidenc (Catalan)",
+                           "size":353
+                        },
+                        {  
+                           "name":"estadounidenses (Spanish)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"американски (Bulgarian)",
+                           "size":353
+                        },
+                        {  
+                           "name":"ამერიკელი (Georgian)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Usano (Ido)",
+                           "size":353
+                        },
+                        {  
+                           "name":"usonano (Esperanto)",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Lamerikänan (Volapük)",
+                           "size":2247
+                        },
+                        {  
+                           "name":"estatunidenca (Catalan)",
+                           "size":353
+                        },
+                        {  
+                           "name":"nord-americà (Catalan)",
+                           "size":2247
+                        },
+                        {  
+                           "name":"nord-americana (Catalan)",
+                           "size":2247
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"electrical plug type",
+                     "children":[  
+                        {  
+                           "name":"Type A",
+                           "size":698
+                        },
+                        {  
+                           "name":"Type B",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"basic form of government",
+                     "children":[  
+                        {  
+                           "name":"presidential system",
+                           "size":698
+                        },
+                        {  
+                           "name":"federal republic",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"continent",
+                     "children":[  
+                        {  
+                           "name":"North America",
+                           "size":698
+                        },
+                        {  
+                           "name":"Oceania",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"motto text",
+                     "children":[  
+                        {  
+                           "name":"In God We Trust (English)",
+                           "size":698
+                        },
+                        {  
+                           "name":"E Pluribus Unum (Latin)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Confiem en Déu (Catalan)",
+                           "size":698
+                        },
+                        {  
+                           "name":"De molts, un (Catalan)",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"population",
+                     "children":[  
+                        {  
+                           "name":"1990: 248,709,873±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2000: 281,421,906±0",
+                           "size":5569
+                        },
+                        {  
+                           "name":"2010: 308,745,538±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2016: 323,952,889±100",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"top-level internet domain",
+                     "children":[  
+                        {  
+                           "name":".us",
+                           "size":698
+                        },
+                        {  
+                           "name":".gov",
+                           "size":5569
+                        },
+                        {  
+                           "name":".mil",
+                           "size":698
+                        },
+                        {  
+                           "name":".edu",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"located in time zone:",
+                     "children":[  
+                        {  
+                           "name":"UTC−06:00",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC−07:00",
+                           "size":5569
+                        },
+                        {  
+                           "name":"UTC−08:00",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC−09:00",
+                           "size":5569
+                        },
+                        {  
+                           "name":"UTC−12:00",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC−11:00",
+                           "size":5569
+                        },
+                        {  
+                           "name":"UTC−04:00",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC+10:00",
+                           "size":5569
+                        },
+                        {  
+                           "name":"UTC+12:00",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC-05:00",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"public holiday",
+                     "children":[  
+                        {  
+                           "name":"Independence Day",
+                           "size":698
+                        },
+                        {  
+                           "name":"New Year's Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Martin Luther King, Jr. Day",
+                           "size":698
+                        },
+                        {  
+                           "name":"Washington's Birthday",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Memorial Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Labor Day",
+                           "size":698
+                        },
+                        {  
+                           "name":"Columbus Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Veterans Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Thanksgiving",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Member of",
+                     "children":[  
+                        {  
+                           "name":"United Nations Security Council",
+                           "size":698
+                        },
+                        {  
+                           "name":"United Nations",
+                           "size":5569
+                        },
+                        {  
+                           "name":"North Atlantic Treaty Organisation",
+                           "size":698
+                        },
+                        {  
+                           "name":"G8",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Organisation for Economic Co-operation and Development",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Trade Organization",
+                           "size":698
+                        },
+                        {  
+                           "name":"Arctic Council",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Organisation for the Prohibition of Chemical Weapons",
+                           "size":5569
+                        },
+                        {  
+                           "name":"G20",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Asia-Pacific Economic Cooperation",
+                           "size":698
+                        },
+                        {  
+                           "name":"North American Free Trade Agreement",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Organization for Security and Co-operation in Europe",
+                           "size":698
+                        },
+                        {  
+                           "name":"International Bank for Reconstruction and Development",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Development Association",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Finance Corporation",
+                           "size":698
+                        },
+                        {  
+                           "name":"Multilateral Investment Guarantee Agency",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Centre for Settlement of Investment Disputes",
+                           "size":5569
+                        },
+                        {  
+                           "name":"African Development Bank",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Association of Southeast Asian Nations Regional Forum",
+                           "size":698
+                        },
+                        {  
+                           "name":"Asian Development Bank",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Australia Group",
+                           "size":5569
+                        },
+                        {  
+                           "name":"ANZUS",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Diplomatic relation",
+                     "children":[  
+                        {  
+                           "name":"Afghanistan",
+                           "size":698
+                        },
+                        {  
+                           "name":"Albania",
+                           "size":5569
+                        },
+                        {  
+                           "name":"People's Republic of China",
+                           "size":698
+                        },
+                        {  
+                           "name":"Germany",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Russia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Australia",
+                           "size":698
+                        },
+                        {  
+                           "name":"Israel",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Brazil",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Iraq",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Serbia",
+                           "size":698
+                        },
+                        {  
+                           "name":"Canada",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Japan",
+                           "size":698
+                        },
+                        {  
+                           "name":"Italy",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Liechtenstein",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Argentina",
+                           "size":698
+                        },
+                        {  
+                           "name":"Zambia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"India",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Lithuania",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Cape Verde",
+                           "size":698
+                        },
+                        {  
+                           "name":"Yemen",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Swaziland",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Head of government",
+                     "children":[  
+                        {  
+                           "name":"George W. Bush",
+                           "size":698
+                        },
+                        {  
+                           "name":"Bill Clinton",
+                           "size":5569
+                        },
+                        {  
+                           "name":"George H. W. Bush",
+                           "size":853
+                        },
+                        {  
+                           "name":"Ronald Reagan",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Jimmy Carter",
+                           "size":353
+                        },
+                        {  
+                           "name":"Gerald Ford",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Richard Nixon",
+                           "size":353
+                        },
+                        {  
+                           "name":"Lyndon B. Johnson",
+                           "size":5569
+                        },
+                        {  
+                           "name":"John F. Kennedy",
+                           "size":353
+                        },
+                        {  
+                           "name":"Dwight D. Eisenhower",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Harry S. Truman",
+                           "size":353
+                        },
+                        {  
+                           "name":"Franklin Delano Roosevelt",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Herbert Hoover",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Calvin Coolidge",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Warren G. Harding",
+                           "size":853
+                        },
+                        {  
+                           "name":"Woodrow Wilson",
+                           "size":5569
+                        },
+                        {  
+                           "name":"William Howard Taft",
+                           "size":353
+                        },
+                        {  
+                           "name":"Theodore Roosevelt",
+                           "size":5569
+                        },
+                        {  
+                           "name":"William McKinley",
+                           "size":353
+                        },
+                        {  
+                           "name":"Grover Cleveland",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Benjamin Harrison",
+                           "size":353
+                        },
+                        {  
+                           "name":"Grover Cleveland",
+                           "size":5569
+                        },
+                        {  
+                           "name":"James A. Garfield",
+                           "size":353
+                        },
+                        {  
+                           "name":"Rutherford B. Hayes",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Ulysses S. Grant",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Andrew Johnson",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Abraham Lincoln",
+                           "size":853
+                        },
+                        {  
+                           "name":"James Buchanan",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Franklin Pierce",
+                           "size":353
+                        },
+                        {  
+                           "name":"Millard Fillmore",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Zachary Taylor",
+                           "size":353
+                        },
+                        {  
+                           "name":"James K. Polk",
+                           "size":5569
+                        },
+                        {  
+                           "name":"John Tyler",
+                           "size":353
+                        },
+                        {  
+                           "name":"William Henry Harrison",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Martin Van Buren",
+                           "size":353
+                        },
+                        {  
+                           "name":"Andrew Jackson",
+                           "size":2247
+                        },
+                        {  
+                           "name":"John Quincy Adams",
+                           "size":2247
+                        },
+                        {  
+                           "name":"James Monroe",
+                           "size":5569
+                        },
+                        {  
+                           "name":"James Madison",
+                           "size":853
+                        },
+                        {  
+                           "name":"Thomas Jefferson",
+                           "size":5569
+                        },
+                        {  
+                           "name":"John Adams",
+                           "size":353
+                        },
+                        {  
+                           "name":"George Washington",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Chester A. Arthur",
+                           "size":353
+                        },
+                        {  
+                           "name":"Barack Obama",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Territorial entity",
+                     "children":[  
+                        {  
+                           "name":"Alabama",
+                           "size":698
+                        },
+                        {  
+                           "name":"Arkansas",
+                           "size":5569
+                        },
+                        {  
+                           "name":"California",
+                           "size":853
+                        },
+                        {  
+                           "name":"Colorado",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Connecticut",
+                           "size":353
+                        },
+                        {  
+                           "name":"Florida",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Georgia",
+                           "size":353
+                        },
+                        {  
+                           "name":"Hawaii",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Idaho",
+                           "size":353
+                        },
+                        {  
+                           "name":"Illinois",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Indiana",
+                           "size":353
+                        },
+                        {  
+                           "name":"Iowa",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Kansas",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Kentucky",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Louisiana",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Maine",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Maryland",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Massachusetts",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Michigan",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Minnesota",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Mississippi",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Missouri",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Montana",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Nebraska",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Nevada",
+                           "size":2247
+                        },
+                        {  
+                           "name":"New Hampshire",
+                           "size":2247
+                        },
+                        {  
+                           "name":"New Jersey",
+                           "size":2247
+                        },
+                        {  
+                           "name":"New York",
+                           "size":2247
+                        },
+                        {  
+                           "name":"North Carolina",
+                           "size":2247
+                        },
+                        {  
+                           "name":"North Dakota",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Ohio",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Oklahoma",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Oregon",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Pennsylvania",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Rhode Island",
+                           "size":2247
+                        },
+                        {  
+                           "name":"South Carolina",
+                           "size":2247
+                        },
+                        {  
+                           "name":"South Dakota",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Tennessee",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Texas",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Utah",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Vermont",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Virginia",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Washington",
+                           "size":2247
+                        },
+                        {  
+                           "name":"West Virginia",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Wisconsin",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Wyoming",
+                           "size":2247
+                        },
+                        {  
+                           "name":"American Samoa",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Washington, D.C.",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Guam",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Northern Mariana Islands",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Puerto Rico",
+                           "size":2247
+                        },
+                        {  
+                           "name":"United States Virgin Islands",
+                           "size":2247
+                        },
+                        {  
+                           "name":"United States Minor Outlying Islands",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Alaska",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Arizona",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Delaware",
+                           "size":2247
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Highest Point - Denali",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Head of government - President",
+                     "size":11275
+                  },
+                  {  
+                     "name":"currency - USD",
+                     "size":11275
+                  },
+                  {  
+                     "name":"legislative body - US Congress",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Highest judicial authority - Supreme Court of the US",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Seal description - Great Seal of the United States",
+                     "size":11275
+                  },
+                  {  
+                     "name":"official language - English",
+                     "size":11275
+                  },
+                  {  
+                     "name":"country calling code - +1",
+                     "size":11275
+                  },
+                  {  
+                     "name":"driving side - right",
+                     "size":11275
+                  },
+                  {  
+                     "name":"capital - Washington, D.C.",
+                     "size":11275
+                  },
+                  {  
+                     "name":"nominal GDP - 17,419,000,000,000±1 USD",
+                     "size":11275
+                  }
+               ]
             },
-            {
-              "name": "CommunityStructure",
-              "size": 3812
-            },
-            {
-              "name": "HierarchicalCluster",
-              "size": 6714
-            },
-            {
-              "name": "MergeEdge",
-              "size": 743
+            {  
+               "name":"Canada",
+               "children":[  
+                  {  
+                     "name":"Shares border with",
+                     "children":[  
+                        {  
+                           "name":"United States of America",
+                           "size":698
+                        },
+                        {  
+                           "name":"Saint Pierre and Miquelon",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Greenland",
+                           "size":853
+                        },
+                        {  
+                           "name":"Dominion of Newfoundland",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Rupert's Land",
+                           "size":353
+                        },
+                        {  
+                           "name":"United Colony of British Columbia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"British Arctic Territories",
+                           "size":353
+                        },
+                        {  
+                           "name":"Prince Edward Island",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Demonym",
+                     "children":[  
+                        {  
+                           "name":"Canadian (English)",
+                           "size":698
+                        },
+                        {  
+                           "name":"Kanadyjczyk (Polish)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Kanadyjka (Polish)",
+                           "size":853
+                        },
+                        {  
+                           "name":"Kanadier (German)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Kanadierin (German)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Canadees (Dutch)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Canadien (French)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Canadienne (French)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"カナダ人 (Japanese)",
+                           "size":353
+                        },
+                        {  
+                           "name":"kanadai (Hungarian)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"कनाडा (Hindi)",
+                           "size":353
+                        },
+                        {  
+                           "name":"canadier (Danish)",
+                           "size":2247
+                        },
+                        {  
+                           "name":"canadenc (Catalan)",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Kanaďan (Czech)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Kanaďanka (Czech)",
+                           "size":853
+                        },
+                        {  
+                           "name":"canadese (Italian)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Kanadano (Ido)",
+                           "size":353
+                        },
+                        {  
+                           "name":"kanadano (Esperanto)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Kanadänan (Volapük)",
+                           "size":353
+                        },
+                        {  
+                           "name":"كندا (Arabic)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"加拿大人 (Chinese)",
+                           "size":353
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"electrical plug type",
+                     "children":[  
+                        {  
+                           "name":"Type A",
+                           "size":698
+                        },
+                        {  
+                           "name":"Type B",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Official Language",
+                     "children":[  
+                        {  
+                           "name":"English",
+                           "size":698
+                        },
+                        {  
+                           "name":"French",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"motto text",
+                     "children":[  
+                        {  
+                           "name":"A mari usque ad mare (Latin)",
+                           "size":9980
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"population",
+                     "children":[  
+                        {  
+                           "name":"1990: 27,791,000±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"1995: 29,354,000±0",
+                           "size":5569
+                        },
+                        {  
+                           "name":"2000: 30,769,700±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2005: 32,312,000±0",
+                           "size":5569
+                        },
+                        {  
+                           "name":"2010: 34,005,274±0",
+                           "size":5569
+                        },
+                        {  
+                           "name":"2016: 36,155,487±1",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"top-level internet domain",
+                     "children":[  
+                        {  
+                           "name":".ca",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"located in time zone:",
+                     "children":[  
+                        {  
+                           "name":"Newfoundland",
+                           "size":698
+                        },
+                        {  
+                           "name":"Atlantic",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Central",
+                           "size":698
+                        },
+                        {  
+                           "name":"Mountain",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Pacific",
+                           "size":698
+                        },
+                        {  
+                           "name":"Eastern",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Saskatchewan",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"public holiday",
+                     "children":[  
+                        {  
+                           "name":"New Year's Day",
+                           "size":698
+                        },
+                        {  
+                           "name":"Good Friday",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Canada Day",
+                           "size":698
+                        },
+                        {  
+                           "name":"Labour Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Christmas",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Easter Monday",
+                           "size":698
+                        },
+                        {  
+                           "name":"Victoria Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Thanksgiving",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Remembrance Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Boxing Day",
+                           "size":698
+                        },
+                        {  
+                           "name":"Family Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Civic Holiday",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Saint Patrick's Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Saint George's Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"National Aboriginal Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Discovery Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Saint-Jean-Baptiste Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"The Twelfth",
+                           "size":5569
+                        },
+                        {  
+                           "name":"National Patriots' Day",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Member of",
+                     "children":[  
+                        {  
+                           "name":"North Atlantic Treaty Organisation",
+                           "size":698
+                        },
+                        {  
+                           "name":"United Nations",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Commonwealth of Nations",
+                           "size":698
+                        },
+                        {  
+                           "name":"G8",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Organisation for Economic Co-operation and Development",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Trade Organization",
+                           "size":698
+                        },
+                        {  
+                           "name":"Arctic Council",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Organisation internationale de la Francophonie",
+                           "size":5569
+                        },
+                        {  
+                           "name":"G20",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Asia-Pacific Economic Cooperation",
+                           "size":698
+                        },
+                        {  
+                           "name":"North American Free Trade Agreement",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Organization for Security and Co-operation in Europe",
+                           "size":698
+                        },
+                        {  
+                           "name":"International Bank for Reconstruction and Development",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Development Association",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Finance Corporation",
+                           "size":698
+                        },
+                        {  
+                           "name":"Multilateral Investment Guarantee Agency",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Centre for Settlement of Investment Disputes",
+                           "size":5569
+                        },
+                        {  
+                           "name":"African Development Bank",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Association of Southeast Asian Nations Regional Forum",
+                           "size":698
+                        },
+                        {  
+                           "name":"Asian Development Bank",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Australia Group",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Caribbean Development Bank",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Organization of American States",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Diplomatic relation",
+                     "children":[  
+                        {  
+                           "name":"United States of America",
+                           "size":698
+                        },
+                        {  
+                           "name":"Israel",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Sweden",
+                           "size":698
+                        },
+                        {  
+                           "name":"Colombia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Ukraine",
+                           "size":5569
+                        },
+                        {  
+                           "name":"European Union",
+                           "size":698
+                        },
+                        {  
+                           "name":"Germany",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Denmark",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Philippines",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Hong Kong",
+                           "size":698
+                        },
+                        {  
+                           "name":"South Korea",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Qatar",
+                           "size":698
+                        },
+                        {  
+                           "name":"Indonesia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Russia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Romania",
+                           "size":698
+                        },
+                        {  
+                           "name":"Panama",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Poland",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Pakistan",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Norway",
+                           "size":698
+                        },
+                        {  
+                           "name":"North Korea",
+                           "size":5569
+                        },
+                        {  
+                           "name":"New Zealand",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Kingdom of the Netherlands",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Saudi Arabia",
+                           "size":698
+                        },
+                        {  
+                           "name":"Singapore",
+                           "size":5569
+                        },
+                        {  
+                           "name":"United Kingdom",
+                           "size":5569
+                        },
+                        {  
+                           "name":"United Arab Emirates",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Turkey",
+                           "size":698
+                        },
+                        {  
+                           "name":"Switzerland",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Soviet Union",
+                           "size":698
+                        },
+                        {  
+                           "name":"Mozambique",
+                           "size":5569
+                        },
+                        {  
+                           "name":"South Africa",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Namibia",
+                           "size":698
+                        },
+                        {  
+                           "name":"Malaysia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Morocco",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Cyprus",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Finland",
+                           "size":698
+                        },
+                        {  
+                           "name":"Ethiopia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Egypt",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Italy",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Mongolia",
+                           "size":698
+                        },
+                        {  
+                           "name":"Australia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Brazil",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Head of government",
+                     "children":[  
+                        {  
+                           "name":"Stephen Harper",
+                           "size":698
+                        },
+                        {  
+                           "name":"John A. Macdonald",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Alexander Mackenzie",
+                           "size":853
+                        },
+                        {  
+                           "name":"Justin Trudeau",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Territorial entity",
+                     "children":[  
+                        {  
+                           "name":"Ontario",
+                           "size":698
+                        },
+                        {  
+                           "name":"Quebec",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Nova Scotia",
+                           "size":853
+                        },
+                        {  
+                           "name":"New Brunswick",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Manitoba",
+                           "size":353
+                        },
+                        {  
+                           "name":"Newfoundland and Labrador",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Prince Edward Island",
+                           "size":353
+                        },
+                        {  
+                           "name":"Saskatchewan",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Alberta",
+                           "size":353
+                        },
+                        {  
+                           "name":"Yukon",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Northwest Territories",
+                           "size":353
+                        },
+                        {  
+                           "name":"Nunavut",
+                           "size":2247
+                        },
+                        {  
+                           "name":"British Columbia",
+                           "size":2247
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"basic form of government",
+                     "children":[  
+                        {  
+                           "name":"parliamentary monarchy",
+                           "size":698
+                        },
+                        {  
+                           "name":"constitutional monarchy",
+                           "size":5569
+                        },
+                        {  
+                           "name":"federation",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Highest Point - Mount Logan",
+                     "size":11275
+                  },
+                  {  
+                     "name":"office held by Head of government - Prime Minister",
+                     "size":11275
+                  },
+                  {  
+                     "name":"currency - CAD",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Central Bank: Bank of Canada",
+                     "size":11275
+                  },
+                  {  
+                     "name":"legislative body - Parliament of Canada",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Highest judicial authority - Supreme Court of Canada",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Seal description - Great Seal of Canada",
+                     "size":11275
+                  },
+                  {  
+                     "name":"country calling code - +1",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Continent - North America",
+                     "size":11275
+                  },
+                  {  
+                     "name":"driving side - right",
+                     "size":11275
+                  },
+                  {  
+                     "name":"capital - Ottawa",
+                     "size":11275
+                  },
+                  {  
+                     "name":"nominal GDP - 1,785,386,649,602±0 USD",
+                     "size":11275
+                  }
+               ]
             }
-          ]
-        },
-        {
-          "name": "graph",
-          "children": [
-            {
-              "name": "BetweennessCentrality",
-              "size": 3534
+         ]
+      },
+            {  
+         "name":"Europe",
+         "children":[  
+            {  
+               "name":"Ireland",
+               "children":[  
+                  {  
+                     "name":"Shares border with",
+                     "children":[  
+                        {  
+                           "name":"United Kingdom",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Demonym",
+                     "children":[  
+                        {  
+                           "name":"Ier (Dutch)",
+                           "size":698
+                        },
+                        {  
+                           "name":"Irish (English)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"ír (Hungarian)",
+                           "size":853
+                        },
+                        {  
+                           "name":"Irlandczyk (Polish)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Irlandka (Polish)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Irlandczycy (Polish)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Éireannach (Irish)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Lireyänan (Volapük)",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"electrical plug type",
+                     "children":[  
+                        {  
+                           "name":"BS 1363",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"basic form of government",
+                     "children":[  
+                        {  
+                           "name":"republic",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"continent",
+                     "children":[  
+                        {  
+                           "name":"Europe",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"population",
+                     "children":[  
+                        {  
+                           "name":"1990: 3,513,974±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2000: 3,805,174±0",
+                           "size":5569
+                        },
+                        {  
+                           "name":"2010: 4,560,155±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2013: 4,593,100±0",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"top-level internet domain",
+                     "children":[  
+                        {  
+                           "name":".ie",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"located in time zone:",
+                     "children":[  
+                        {  
+                           "name":"UTC±00:00 (standard)",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC+01:00 (DST)",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Member of",
+                     "children":[  
+                        {  
+                           "name":"European Union",
+                           "size":698
+                        },
+                        {  
+                           "name":"United Nations",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Organisation for Economic Co-operation and Development",
+                           "size":698
+                        },
+                        {  
+                           "name":"Council of Europe",
+                           "size":5569
+                        },
+                        {  
+                           "name":"European Space Agency",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Trade Organization",
+                           "size":698
+                        },
+                        {  
+                           "name":"Nordic Battle Group",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Organization for Security and Co-operation in Europe",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Bank for Reconstruction and Development",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Development Association",
+                           "size":698
+                        },
+                        {  
+                           "name":"International Finance Corporation",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Multilateral Investment Guarantee Agency",
+                           "size":698
+                        },
+                        {  
+                           "name":"International Centre for Settlement of Investment Disputes",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Asian Development Bank",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Australia Group",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Diplomatic relation",
+                     "children":[  
+                        {  
+                           "name":"Italy",
+                           "size":698
+                        },
+                        {  
+                           "name":"France",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Germany",
+                           "size":698
+                        },
+                        {  
+                           "name":"Zambia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Australia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Russia",
+                           "size":698
+                        },
+                        {  
+                           "name":"Canada",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Head of state",
+                     "children":[  
+                        {  
+                           "name":"Michael Higgins",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Territorial entity",
+                     "children":[  
+                        {  
+                           "name":"County Cork",
+                           "size":698
+                        },
+                        {  
+                           "name":"County Kerry",
+                           "size":5569
+                        },
+                        {  
+                           "name":"County Waterford",
+                           "size":853
+                        },
+                        {  
+                           "name":"County Wexford",
+                           "size":5569
+                        },
+                        {  
+                           "name":"County Galway",
+                           "size":353
+                        },
+                        {  
+                           "name":"County Laois",
+                           "size":5569
+                        },
+                        {  
+                           "name":"County Kildare",
+                           "size":353
+                        },
+                        {  
+                           "name":"County Donegal",
+                           "size":5569
+                        },
+                        {  
+                           "name":"County Dublin",
+                           "size":353
+                        },
+                        {  
+                           "name":"County Westmeath",
+                           "size":5569
+                        },
+                        {  
+                           "name":"County Leitrim",
+                           "size":353
+                        },
+                        {  
+                           "name":"County Mayo",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Roscommon",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Clare",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Tipperary",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Carlow",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Longford",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Louth",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Offaly",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Wicklow",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Cavan",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Monaghan",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Meath",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Kilkenny",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Limerick",
+                           "size":2247
+                        },
+                        {  
+                           "name":"County Sligo",
+                           "size":2247
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Highest Point - Carrauntoohil",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Head of government - Enda Kenny",
+                     "size":11275
+                  },
+                  {  
+                     "name":"currency - Euro",
+                     "size":11275
+                  },
+                  {  
+                     "name":"legislative body - Oireachtas",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Highest judicial authority - Supreme Court of Ireland",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Official language:",
+                     "children":[  
+                        {  
+                           "name":"English",
+                           "size":698
+                        },
+                        {  
+                           "name":"Irish",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"country calling code - +353",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Driving side - left",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Capital - Dublin",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Deepest point - North Slob",
+                     "size":11275
+                  }
+               ]
             },
-            {
-              "name": "LinkDistance",
-              "size": 5731
-            },
-            {
-              "name": "MaxFlowMinCut",
-              "size": 7840
-            },
-            {
-              "name": "ShortestPaths",
-              "size": 5914
-            },
-            {
-              "name": "SpanningTree",
-              "size": 3416
+            {  
+               "name":"United Kingdom",
+               "children":[  
+                  {  
+                     "name":"Shares border with",
+                     "children":[  
+                        {  
+                           "name":"Ireland",
+                           "size":698
+                        },
+                        {  
+                           "name":"France",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Denmark",
+                           "size":853
+                        },
+                        {  
+                           "name":"Venezuela",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Demonym",
+                     "children":[  
+                        {  
+                           "name":"British (English)",
+                           "size":698
+                        },
+                        {  
+                           "name":"Britannique (French)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Brite (German)",
+                           "size":853
+                        },
+                        {  
+                           "name":"Britin (German)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Brytyjczycy (Polish)",
+                           "size":353
+                        },
+                        {  
+                           "name":"británicos (Spanish)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"英國人 (Chinese)",
+                           "size":353
+                        },
+                        {  
+                           "name":"CBritové (Czech)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"brite (Danish)",
+                           "size":353
+                        },
+                        {  
+                           "name":"breti (Faroese)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"britit (Finnish)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Βρετανός (Greek)",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Βρετανή (Greek)",
+                           "size":2247
+                        },
+                        {  
+                           "name":"Orang Inggris (Indonesian)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"britannici (Italian)",
+                           "size":853
+                        },
+                        {  
+                           "name":"בריטי (Hebrew)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"イギリス人 (Japanese)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Wong Inggeris (Javanese)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Британци (Macedonian)",
+                           "size":353
+                        },
+                        {  
+                           "name":"ब्रिटिश (Marathi)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"brite (Norwegian Bokmål)",
+                           "size":353
+                        },
+                        {  
+                           "name":"brite (Norwegian Nynorsk)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"britânicos (Portuguese)",
+                           "size":853
+                        },
+                        {  
+                           "name":"britanic (Romanian)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"брита́нец (Russian)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Breatannaich (Scottish Gaelic)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Brit (Slovak)",
+                           "size":353
+                        },
+                        {  
+                           "name":"britt (Swedish)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"brittiska (Swedish)",
+                           "size":353
+                        },
+                        {  
+                           "name":"brit (Hungarian)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"بريطاني (Arabic)",
+                           "size":353
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"electrical plug type",
+                     "children":[  
+                        {  
+                           "name":"BS 1363",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Official Language",
+                     "children":[  
+                        {  
+                           "name":"English",
+                           "size":698
+                        },
+                        {  
+                           "name":"Welsh",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"population",
+                     "children":[  
+                        {  
+                           "name":"1990: 57,247,586±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2000: 58,892,514±0",
+                           "size":5569
+                        },
+                        {  
+                           "name":"2010: 62,766,365±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2016: 65,102,385±1",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"top-level internet domain",
+                     "children":[  
+                        {  
+                           "name":".uk",
+                           "size":698
+                        },
+                        {  
+                           "name":".gb",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"located in time zone:",
+                     "children":[  
+                        {  
+                           "name":"UTC±00:00",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC+02:00",
+                           "size":5569
+                        },
+                        {  
+                           "name":"UTC−08:00",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC+01:00",
+                           "size":5569
+                        },
+                        {  
+                           "name":"UTC−04:00",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC+02:00",
+                           "size":5569
+                        },
+                        {  
+                           "name":"UTC−05:00",
+                           "size":698
+                        },
+                        {  
+                           "name":"UTC+06:00",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Member of",
+                     "children":[  
+                        {  
+                           "name":"European Union",
+                           "size":698
+                        },
+                        {  
+                           "name":"United Nations",
+                           "size":5569
+                        },
+                        {  
+                           "name":"North Atlantic Treaty Organisation",
+                           "size":698
+                        },
+                        {  
+                           "name":"Commonwealth of Nations",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Council of Europe",
+                           "size":5569
+                        },
+                        {  
+                           "name":"G8",
+                           "size":698
+                        },
+                        {  
+                           "name":"Organisation for Economic Co-operation and Development",
+                           "size":5569
+                        },
+                        {  
+                           "name":"European Space Agency",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Trade Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"G20",
+                           "size":698
+                        },
+                        {  
+                           "name":"United Nations Security Council",
+                           "size":5569
+                        },
+                        {  
+                           "name":"European Southern Observatory",
+                           "size":698
+                        },
+                        {  
+                           "name":"Organization for Security and Co-operation in Europe",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Development Association",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Finance Corporation",
+                           "size":698
+                        },
+                        {  
+                           "name":"Multilateral Investment Guarantee Agency",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Centre for Settlement of Investment Disputes",
+                           "size":5569
+                        },
+                        {  
+                           "name":"African Development Bank",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Asian Development Bank",
+                           "size":698
+                        },
+                        {  
+                           "name":"Australia Group",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Caribbean Development Bank",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Diplomatic relation",
+                     "children":[  
+                        {  
+                           "name":"Canada",
+                           "size":698
+                        },
+                        {  
+                           "name":"Italy",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Brazil",
+                           "size":698
+                        },
+                        {  
+                           "name":"Germany",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Israel",
+                           "size":5569
+                        },
+                        {  
+                           "name":"France",
+                           "size":698
+                        },
+                        {  
+                           "name":"Lithuania",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Australia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Serbia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Yemen",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Head of government",
+                     "children":[  
+                        {  
+                           "name":"David Cameron",
+                           "size":698
+                        },
+                        {  
+                           "name":"Theresa May",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Head of state",
+                     "children":[  
+                        {  
+                           "name":"Elizabeth II",
+                           "size":698
+                        },
+                        {  
+                           "name":"George VI",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Edward VIII",
+                           "size":698
+                        },
+                        {  
+                           "name":"George V",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Territorial entity",
+                     "children":[  
+                        {  
+                           "name":"England",
+                           "size":698
+                        },
+                        {  
+                           "name":"Wales",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Scotland",
+                           "size":853
+                        },
+                        {  
+                           "name":"Northern Ireland",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Southern Ireland",
+                           "size":353
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"basic form of government",
+                     "children":[  
+                        {  
+                           "name":"parliamentary monarchy",
+                           "size":698
+                        },
+                        {  
+                           "name":"constitutional monarchy",
+                           "size":5569
+                        },
+                        {  
+                           "name":"unitary state",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Highest Point - Ben Nevis",
+                     "size":11275
+                  },
+                   {  
+                     "name":"Head of state - Monarch of the United Kingdom",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Deepest Point - The Fens",
+                     "size":11275
+                  },
+                  {  
+                     "name":"office held by Head of government - Prime Minister",
+                     "size":11275
+                  },
+                  {  
+                     "name":"currency - pound sterling",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Central Bank: Bank of England",
+                     "size":11275
+                  },
+                  {  
+                     "name":"legislative body - Parliament of the United Kingdom",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Highest judicial authority - Supreme Court of the United Kingdom",
+                     "size":11275
+                  },
+                  {  
+                     "name":"country calling code - +44",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Continent - Europe",
+                     "size":11275
+                  },
+                  {  
+                     "name":"driving side - left",
+                     "size":11275
+                  },
+                  {  
+                     "name":"capital - London",
+                     "size":11275
+                  },
+                  {  
+                     "name":"nominal GDP - 2,988,893,283,565±1 USD",
+                     "size":11275
+                  }
+               ]
             }
-          ]
-        },
-        {
-          "name": "optimization",
-          "children": [
-            {
-              "name": "AspectRatioBanker",
-              "size": 7074
+         ]
+      },
+            {  
+         "name":"Asia",
+         "children":[  
+            {  
+               "name":"North-Korea",
+               "children":[  
+                  {  
+                     "name":"Shares border with",
+                     "children":[  
+                        {  
+                           "name":"South Korea",
+                           "size":698
+                        },
+                        {  
+                           "name":"Russia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"People's Republic of China",
+                           "size":853
+                        },
+                        {  
+                           "name":"Japan",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Soviet Union",
+                           "size":353
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Demonym",
+                     "children":[  
+                        {  
+                           "name":"Noord-Koreaan (Dutch)",
+                           "size":698
+                        },
+                        {  
+                           "name":"nord-coréen (French)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"nord-coréenne (French)",
+                           "size":853
+                        },
+                        {  
+                           "name":"朝鮮人 (Japanese)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"North Korean (English)",
+                           "size":353
+                        },
+                        {  
+                           "name":"조선인 (Korean)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"朝鮮人 (Chinese)",
+                           "size":353
+                        },
+                        {  
+                           "name":"észak-koreai (Hungarian)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Nord-Koreano (Ido)",
+                           "size":353
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"electrical plug type",
+                     "children":[  
+                        {  
+                           "name":"Type A",
+                           "size":698
+                        },
+                        {  
+                           "name":"Europlug",
+                           "size":5569
+                        },
+                        {
+                          "name":"Schuko",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"basic form of government",
+                     "children":[  
+                        {  
+                           "name":"Family dictatorship",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"continent",
+                     "children":[  
+                        {  
+                           "name":"Asia",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"population",
+                     "children":[  
+                        {  
+                           "name":"1990:20,194,361±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2000:22,840,225±0",
+                           "size":5569
+                        },
+                        {  
+                           "name":"2010:24,500,520±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2016:24,895,480±0",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"top-level internet domain",
+                     "children":[  
+                        {  
+                           "name":".kp",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"located in time zone:",
+                     "children":[  
+                        {  
+                           "name":"UTC+08:30",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Member of",
+                     "children":[  
+                        {  
+                           "name":"Food and Agriculture Organization of the United Nations",
+                           "size":698
+                        },
+                        {  
+                           "name":"United Nations",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Group of 77",
+                           "size":698
+                        },
+                        {  
+                           "name":"International Civil Aviation Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Red Cross and Red Crescent Movement",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Fund for Agricultural Development",
+                           "size":698
+                        },
+                        {  
+                           "name":"International Federation of Red Cross and Red Crescent Societies",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Hydrographic Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Maritime Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Olympic Committee",
+                           "size":698
+                        },
+                        {  
+                           "name":"Inter-Parliamentary Union",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Organization for Standardization",
+                           "size":698
+                        },
+                        {  
+                           "name":"International Telecommunications Satellite Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Telecommunication Union",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Non-Aligned Movement",
+                           "size":698
+                        },
+                        {  
+                           "name":"United Nations Conference on Trade and Development",
+                           "size":5569
+                        },
+                        {  
+                           "name":"United Nations Educational, Scientific and Cultural Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"United Nations Industrial Development Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Tourism Organization",
+                           "size":698
+                        },
+                        {  
+                           "name":"Universal Postal Union",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Federation of Trade Unions",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Health Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Intellectual Property Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Meteorological Organization",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Association of Southeast Asian Nations Regional Forum",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Diplomatic relation",
+                     "children":[  
+                        {  
+                           "name":"Germany",
+                           "size":698
+                        },
+                        {  
+                           "name":"Canada",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Italy",
+                           "size":698
+                        },
+                        {  
+                           "name":"Brazil",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Australia",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Head of state",
+                     "children":[  
+                        {  
+                           "name":"Kim Jong-un",
+                           "size":698
+                        },
+                        {  
+                           "name":"Kim Il-sung",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Kim Jong-il",
+                           "size":853
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Territorial entity",
+                     "children":[  
+                        {  
+                           "name":"Pyongyang",
+                           "size":698
+                        },
+                        {  
+                           "name":"South Pyongan Province",
+                           "size":5569
+                        },
+                        {  
+                           "name":"North Pyongan Province",
+                           "size":853
+                        },
+                        {  
+                           "name":"Chagang Province",
+                           "size":5569
+                        },
+                        {  
+                           "name":"South Hwanghae Province",
+                           "size":353
+                        },
+                        {  
+                           "name":"North Hwanghae Province",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Kangwon Province",
+                           "size":353
+                        },
+                        {  
+                           "name":"South Hamgyong Province",
+                           "size":5569
+                        },
+                        {  
+                           "name":"North Hamgyong Province",
+                           "size":353
+                        },
+                        {  
+                           "name":"Ryanggang Province",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Rason",
+                           "size":353
+                        },
+                        {  
+                           "name":"Nampho",
+                           "size":2247
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Highest Point - Baekdu Mountain",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Office held by Head of government - Premier of North Korea",
+                     "size":11275
+                  },
+                  {  
+                     "name":"currency - North Korean won",
+                     "size":11275
+                  },
+                  {  
+                     "name":"official language - Korean",
+                     "size":11275
+                  },
+                  {  
+                     "name":"country calling code - +850",
+                     "size":11275
+                  },
+                  {  
+                     "name":"driving side - right",
+                     "size":11275
+                  },
+                  {  
+                     "name":"capital - Pyongyang",
+                     "size":11275
+                  }
+               ]
+            },
+            {  
+               "name":"South-Korea",
+               "children":[  
+                  {  
+                     "name":"Shares border with",
+                     "children":[  
+                        {  
+                           "name":"North Korea",
+                           "size":698
+                        },
+                        {  
+                           "name":"People's Republic of China",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Japan",
+                           "size":853
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Demonym",
+                     "children":[  
+                        {  
+                           "name":"Zuid-Koreaan (Dutch)",
+                           "size":698
+                        },
+                        {  
+                           "name":"South Korean (English)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"sud-coréen (French)",
+                           "size":853
+                        },
+                        {  
+                           "name":"dél-koreai (Hungarian)",
+                           "size":5569
+                        },
+                        {  
+                           "name":"한국인 (Korean)",
+                           "size":353
+                        },
+                        {  
+                           "name":"Sud-Koreano (Ido)",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"electrical plug type",
+                     "children":[  
+                        {  
+                           "name":"Schuko",
+                           "size":698
+                        },
+                        {  
+                           "name":"Europlug",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Official Language",
+                     "children":[  
+                        {  
+                           "name":"Korean",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"population",
+                     "children":[  
+                        {  
+                           "name":"1990: 42,869,283±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2000: 47,008,111±0",
+                           "size":5569
+                        },
+                        {  
+                           "name":"2010: 49,410,366±0",
+                           "size":698
+                        },
+                        {  
+                           "name":"2013: 50,219,669±0",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"top-level internet domain",
+                     "children":[  
+                        {  
+                           "name":".kr",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"located in time zone:",
+                     "children":[  
+                        {  
+                           "name":"UTC+09:00",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"public holiday",
+                     "children":[  
+                        {  
+                           "name":"New Year of a calendar",
+                           "size":698
+                        },
+                        {  
+                           "name":"Korean New Year",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Buddha's birthday",
+                           "size":698
+                        },
+                        {  
+                           "name":"Children's day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Memorial Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Gwangbokjeol",
+                           "size":698
+                        },
+                        {  
+                           "name":"Chuseok",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Gaecheonjeol",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Hangul Day",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Christmas",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Member of",
+                     "children":[  
+                        {  
+                           "name":"Organisation for Economic Co-operation and Development",
+                           "size":698
+                        },
+                        {  
+                           "name":"United Nations",
+                           "size":5569
+                        },
+                        {  
+                           "name":"World Trade Organizations",
+                           "size":698
+                        },
+                        {  
+                           "name":"G20",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Asia-Pacific Economic Cooperation",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Bank for Reconstruction and Development",
+                           "size":698
+                        },
+                        {  
+                           "name":"International Development Association",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Finance Corporation",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Multilateral Investment Guarantee Agency",
+                           "size":5569
+                        },
+                        {  
+                           "name":"International Centre for Settlement of Investment Disputes",
+                           "size":698
+                        },
+                        {  
+                           "name":"African Development Bank",
+                           "size":5569
+                        },
+                        {  
+                           "name":"African Union – United Nations Hybrid Operation in Darfur",
+                           "size":698
+                        },
+                        {  
+                           "name":"Association of Southeast Asian Nations Regional Forum",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Asian Development Bank",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Australia Group",
+                           "size":698
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Diplomatic relation",
+                     "children":[  
+                        {  
+                           "name":"Canada",
+                           "size":698
+                        },
+                        {  
+                           "name":"Italy",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Germany",
+                           "size":698
+                        },
+                        {  
+                           "name":"Australia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Japan",
+                           "size":5569
+                        },
+                        {  
+                           "name":"People's Republic of China",
+                           "size":698
+                        },
+                        {  
+                           "name":"Russia",
+                           "size":5569
+                        },
+                        {  
+                           "name":"United States of America",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Head of state",
+                     "children":[  
+                        {  
+                           "name":"Park Geun-hye",
+                           "size":698
+                        },
+                        {  
+                           "name":"Lee Myung-bak",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Roh Moo-hyun",
+                           "size":853
+                        },
+                        {  
+                           "name":"Kim Dae-jung",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Kim Young-sam",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Roh Tae-woo",
+                           "size":853
+                        },
+                        {  
+                           "name":"Chun Doo-hwan",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Choi Kyu-ha",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Park Chung-hee",
+                           "size":853
+                        },
+                        {  
+                           "name":"Yun Posun",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Rhee Syng-man",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Territorial entity",
+                     "children":[  
+                        {  
+                           "name":"Seoul",
+                           "size":698
+                        },
+                        {  
+                           "name":"Busan",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Daegu",
+                           "size":853
+                        },
+                        {  
+                           "name":"Incheon",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Gwangju",
+                           "size":353
+                        },
+                        {  
+                           "name":"Daejeon",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Ulsan",
+                           "size":353
+                        },
+                        {  
+                           "name":"Sejong City",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Gyeonggi Province",
+                           "size":353
+                        },
+                        {  
+                           "name":"Gangwon Province",
+                           "size":5569
+                        },
+                        {  
+                           "name":"North Chungcheong Province",
+                           "size":353
+                        },
+                        {  
+                           "name":"South Chungcheong Province",
+                           "size":2247
+                        },
+                        {  
+                           "name":"North Jeolla Province",
+                           "size":2247
+                        },
+                        {  
+                           "name":"South Jeolla Province",
+                           "size":5569
+                        },
+                        {  
+                           "name":"North Gyeongsang Province",
+                           "size":353
+                        },
+                        {  
+                           "name":"South Gyeongsang Province",
+                           "size":5569
+                        },
+                        {  
+                           "name":"Jeju Province",
+                           "size":353
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"basic form of government",
+                     "children":[  
+                        {  
+                           "name":"republic",
+                           "size":698
+                        },
+                        {  
+                           "name":"presidential system",
+                           "size":5569
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Highest Point - Hallasan",
+                     "size":11275
+                  },
+                  {  
+                     "name":"office held by Head of government - President of South Korea",
+                     "size":11275
+                  },
+                  {  
+                     "name":"currency - South Korean won",
+                     "size":11275
+                  },
+                  {  
+                     "name":"legislative body - National Assembly",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Highest judicial authority - Supreme Court of South Korea",
+                     "size":11275
+                  },
+                  {  
+                     "name":"country calling code - +82",
+                     "size":11275
+                  },
+                  {  
+                     "name":"Continent - Asia",
+                     "size":11275
+                  },
+                  {  
+                     "name":"driving side - right",
+                     "size":11275
+                  },
+                  {  
+                     "name":"capital - Seoul",
+                     "size":11275
+                  },
+                  {  
+                     "name":"deepest point - Sea of Japan ",
+                     "size":11275
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "animate",
-      "children": [
-        {
-          "name": "Easing",
-          "size": 17010
-        },
-        {
-          "name": "FunctionSequence",
-          "size": 5842
-        },
-        {
-          "name": "interpolate",
-          "children": [
-            {
-              "name": "ArrayInterpolator",
-              "size": 1983
-            },
-            {
-              "name": "ColorInterpolator",
-              "size": 2047
-            },
-            {
-              "name": "DateInterpolator",
-              "size": 1375
-            },
-            {
-              "name": "Interpolator",
-              "size": 8746
-            },
-            {
-              "name": "MatrixInterpolator",
-              "size": 2202
-            },
-            {
-              "name": "NumberInterpolator",
-              "size": 1382
-            },
-            {
-              "name": "ObjectInterpolator",
-              "size": 1629
-            },
-            {
-              "name": "PointInterpolator",
-              "size": 1675
-            },
-            {
-              "name": "RectangleInterpolator",
-              "size": 2042
-            }
-          ]
-        },
-        {
-          "name": "ISchedulable",
-          "size": 1041
-        },
-        {
-          "name": "Parallel",
-          "size": 5176
-        },
-        {
-          "name": "Pause",
-          "size": 449
-        },
-        {
-          "name": "Scheduler",
-          "size": 5593
-        },
-        {
-          "name": "Sequence",
-          "size": 5534
-        },
-        {
-          "name": "Transition",
-          "size": 9201
-        },
-        {
-          "name": "Transitioner",
-          "size": 19975
-        },
-        {
-          "name": "TransitionEvent",
-          "size": 1116
-        },
-        {
-          "name": "Tween",
-          "size": 6006
-        }
-      ]
-    },
-    {
-      "name": "data",
-      "children": [
-        {
-          "name": "converters",
-          "children": [
-            {
-              "name": "Converters",
-              "size": 721
-            },
-            {
-              "name": "DelimitedTextConverter",
-              "size": 4294
-            },
-            {
-              "name": "GraphMLConverter",
-              "size": 9800
-            },
-            {
-              "name": "IDataConverter",
-              "size": 1314
-            },
-            {
-              "name": "JSONConverter",
-              "size": 2220
-            }
-          ]
-        },
-        {
-          "name": "DataField",
-          "size": 1759
-        },
-        {
-          "name": "DataSchema",
-          "size": 2165
-        },
-        {
-          "name": "DataSet",
-          "size": 586
-        },
-        {
-          "name": "DataSource",
-          "size": 3331
-        },
-        {
-          "name": "DataTable",
-          "size": 772
-        },
-        {
-          "name": "DataUtil",
-          "size": 3322
-        }
-      ]
-    },
-    {
-      "name": "display",
-      "children": [
-        {
-          "name": "DirtySprite",
-          "size": 8833
-        },
-        {
-          "name": "LineSprite",
-          "size": 1732
-        },
-        {
-          "name": "RectSprite",
-          "size": 3623
-        },
-        {
-          "name": "TextSprite",
-          "size": 10066
-        }
-      ]
-    },
-    {
-      "name": "flex",
-      "children": [
-        {
-          "name": "FlareVis",
-          "size": 4116
-        }
-      ]
-    },
-    {
-      "name": "physics",
-      "children": [
-        {
-          "name": "DragForce",
-          "size": 1082
-        },
-        {
-          "name": "GravityForce",
-          "size": 1336
-        },
-        {
-          "name": "IForce",
-          "size": 319
-        },
-        {
-          "name": "NBodyForce",
-          "size": 10498
-        },
-        {
-          "name": "Particle",
-          "size": 2822
-        },
-        {
-          "name": "Simulation",
-          "size": 9983
-        },
-        {
-          "name": "Spring",
-          "size": 2213
-        },
-        {
-          "name": "SpringForce",
-          "size": 1681
-        }
-      ]
-    },
-    {
-      "name": "query",
-      "children": [
-        {
-          "name": "AggregateExpression",
-          "size": 1616
-        },
-        {
-          "name": "And",
-          "size": 1027
-        },
-        {
-          "name": "Arithmetic",
-          "size": 3891
-        },
-        {
-          "name": "Average",
-          "size": 891
-        },
-        {
-          "name": "BinaryExpression",
-          "size": 2893
-        },
-        {
-          "name": "Comparison",
-          "size": 5103
-        },
-        {
-          "name": "CompositeExpression",
-          "size": 3677
-        },
-        {
-          "name": "Count",
-          "size": 781
-        },
-        {
-          "name": "DateUtil",
-          "size": 4141
-        },
-        {
-          "name": "Distinct",
-          "size": 933
-        },
-        {
-          "name": "Expression",
-          "size": 5130
-        },
-        {
-          "name": "ExpressionIterator",
-          "size": 3617
-        },
-        {
-          "name": "Fn",
-          "size": 3240
-        },
-        {
-          "name": "If",
-          "size": 2732
-        },
-        {
-          "name": "IsA",
-          "size": 2039
-        },
-        {
-          "name": "Literal",
-          "size": 1214
-        },
-        {
-          "name": "Match",
-          "size": 3748
-        },
-        {
-          "name": "Maximum",
-          "size": 843
-        },
-        {
-          "name": "methods",
-          "children": [
-            {
-              "name": "add",
-              "size": 593
-            },
-            {
-              "name": "and",
-              "size": 330
-            },
-            {
-              "name": "average",
-              "size": 287
-            },
-            {
-              "name": "count",
-              "size": 277
-            },
-            {
-              "name": "distinct",
-              "size": 292
-            },
-            {
-              "name": "div",
-              "size": 595
-            },
-            {
-              "name": "eq",
-              "size": 594
-            },
-            {
-              "name": "fn",
-              "size": 460
-            },
-            {
-              "name": "gt",
-              "size": 603
-            },
-            {
-              "name": "gte",
-              "size": 625
-            },
-            {
-              "name": "iff",
-              "size": 748
-            },
-            {
-              "name": "isa",
-              "size": 461
-            },
-            {
-              "name": "lt",
-              "size": 597
-            },
-            {
-              "name": "lte",
-              "size": 619
-            },
-            {
-              "name": "max",
-              "size": 283
-            },
-            {
-              "name": "min",
-              "size": 283
-            },
-            {
-              "name": "mod",
-              "size": 591
-            },
-            {
-              "name": "mul",
-              "size": 603
-            },
-            {
-              "name": "neq",
-              "size": 599
-            },
-            {
-              "name": "not",
-              "size": 386
-            },
-            {
-              "name": "or",
-              "size": 323
-            },
-            {
-              "name": "orderby",
-              "size": 307
-            },
-            {
-              "name": "range",
-              "size": 772
-            },
-            {
-              "name": "select",
-              "size": 296
-            },
-            {
-              "name": "stddev",
-              "size": 363
-            },
-            {
-              "name": "sub",
-              "size": 600
-            },
-            {
-              "name": "sum",
-              "size": 280
-            },
-            {
-              "name": "update",
-              "size": 307
-            },
-            {
-              "name": "variance",
-              "size": 335
-            },
-            {
-              "name": "where",
-              "size": 299
-            },
-            {
-              "name": "xor",
-              "size": 354
-            },
-            {
-              "name": "_",
-              "size": 264
-            }
-          ]
-        },
-        {
-          "name": "Minimum",
-          "size": 843
-        },
-        {
-          "name": "Not",
-          "size": 1554
-        },
-        {
-          "name": "Or",
-          "size": 970
-        },
-        {
-          "name": "Query",
-          "size": 13896
-        },
-        {
-          "name": "Range",
-          "size": 1594
-        },
-        {
-          "name": "StringUtil",
-          "size": 4130
-        },
-        {
-          "name": "Sum",
-          "size": 791
-        },
-        {
-          "name": "Variable",
-          "size": 1124
-        },
-        {
-          "name": "Variance",
-          "size": 1876
-        },
-        {
-          "name": "Xor",
-          "size": 1101
-        }
-      ]
-    },
-    {
-      "name": "scale",
-      "children": [
-        {
-          "name": "IScaleMap",
-          "size": 2105
-        },
-        {
-          "name": "LinearScale",
-          "size": 1316
-        },
-        {
-          "name": "LogScale",
-          "size": 3151
-        },
-        {
-          "name": "OrdinalScale",
-          "size": 3770
-        },
-        {
-          "name": "QuantileScale",
-          "size": 2435
-        },
-        {
-          "name": "QuantitativeScale",
-          "size": 4839
-        },
-        {
-          "name": "RootScale",
-          "size": 1756
-        },
-        {
-          "name": "Scale",
-          "size": 4268
-        },
-        {
-          "name": "ScaleType",
-          "size": 1821
-        },
-        {
-          "name": "TimeScale",
-          "size": 5833
-        }
-      ]
-    },
-    {
-      "name": "util",
-      "children": [
-        {
-          "name": "Arrays",
-          "size": 8258
-        },
-        {
-          "name": "Colors",
-          "size": 10001
-        },
-        {
-          "name": "Dates",
-          "size": 8217
-        },
-        {
-          "name": "Displays",
-          "size": 12555
-        },
-        {
-          "name": "Filter",
-          "size": 2324
-        },
-        {
-          "name": "Geometry",
-          "size": 10993
-        },
-        {
-          "name": "heap",
-          "children": [
-            {
-              "name": "FibonacciHeap",
-              "size": 9354
-            },
-            {
-              "name": "HeapNode",
-              "size": 1233
-            }
-          ]
-        },
-        {
-          "name": "IEvaluable",
-          "size": 335
-        },
-        {
-          "name": "IPredicate",
-          "size": 383
-        },
-        {
-          "name": "IValueProxy",
-          "size": 874
-        },
-        {
-          "name": "math",
-          "children": [
-            {
-              "name": "DenseMatrix",
-              "size": 3165
-            },
-            {
-              "name": "IMatrix",
-              "size": 2815
-            },
-            {
-              "name": "SparseMatrix",
-              "size": 3366
-            }
-          ]
-        },
-        {
-          "name": "Maths",
-          "size": 17705
-        },
-        {
-          "name": "Orientation",
-          "size": 1486
-        },
-        {
-          "name": "palette",
-          "children": [
-            {
-              "name": "ColorPalette",
-              "size": 6367
-            },
-            {
-              "name": "Palette",
-              "size": 1229
-            },
-            {
-              "name": "ShapePalette",
-              "size": 2059
-            },
-            {
-              "name": "SizePalette",
-              "size": 2291
-            }
-          ]
-        },
-        {
-          "name": "Property",
-          "size": 5559
-        },
-        {
-          "name": "Shapes",
-          "size": 19118
-        },
-        {
-          "name": "Sort",
-          "size": 6887
-        },
-        {
-          "name": "Stats",
-          "size": 6557
-        },
-        {
-          "name": "Strings",
-          "size": 22026
-        }
-      ]
-    },
-    {
-      "name": "vis",
-      "children": [
-        {
-          "name": "axis",
-          "children": [
-            {
-              "name": "Axes",
-              "size": 1302
-            },
-            {
-              "name": "Axis",
-              "size": 24593
-            },
-            {
-              "name": "AxisGridLine",
-              "size": 652
-            },
-            {
-              "name": "AxisLabel",
-              "size": 636
-            },
-            {
-              "name": "CartesianAxes",
-              "size": 6703
-            }
-          ]
-        },
-        {
-          "name": "controls",
-          "children": [
-            {
-              "name": "AnchorControl",
-              "size": 2138
-            },
-            {
-              "name": "ClickControl",
-              "size": 3824
-            },
-            {
-              "name": "Control",
-              "size": 1353
-            },
-            {
-              "name": "ControlList",
-              "size": 4665
-            },
-            {
-              "name": "DragControl",
-              "size": 2649
-            },
-            {
-              "name": "ExpandControl",
-              "size": 2832
-            },
-            {
-              "name": "HoverControl",
-              "size": 4896
-            },
-            {
-              "name": "IControl",
-              "size": 763
-            },
-            {
-              "name": "PanZoomControl",
-              "size": 5222
-            },
-            {
-              "name": "SelectionControl",
-              "size": 7862
-            },
-            {
-              "name": "TooltipControl",
-              "size": 8435
-            }
-          ]
-        },
-        {
-          "name": "data",
-          "children": [
-            {
-              "name": "Data",
-              "size": 20544
-            },
-            {
-              "name": "DataList",
-              "size": 19788
-            },
-            {
-              "name": "DataSprite",
-              "size": 10349
-            },
-            {
-              "name": "EdgeSprite",
-              "size": 3301
-            },
-            {
-              "name": "NodeSprite",
-              "size": 19382
-            },
-            {
-              "name": "render",
-              "children": [
-                {
-                  "name": "ArrowType",
-                  "size": 698
-                },
-                {
-                  "name": "EdgeRenderer",
-                  "size": 5569
-                },
-                {
-                  "name": "IRenderer",
-                  "size": 353
-                },
-                {
-                  "name": "ShapeRenderer",
-                  "size": 2247
-                }
-              ]
-            },
-            {
-              "name": "ScaleBinding",
-              "size": 11275
-            },
-            {
-              "name": "Tree",
-              "size": 7147
-            },
-            {
-              "name": "TreeBuilder",
-              "size": 9930
-            }
-          ]
-        },
-        {
-          "name": "events",
-          "children": [
-            {
-              "name": "DataEvent",
-              "size": 2313
-            },
-            {
-              "name": "SelectionEvent",
-              "size": 1880
-            },
-            {
-              "name": "TooltipEvent",
-              "size": 1701
-            },
-            {
-              "name": "VisualizationEvent",
-              "size": 1117
-            }
-          ]
-        },
-        {
-          "name": "legend",
-          "children": [
-            {
-              "name": "Legend",
-              "size": 20859
-            },
-            {
-              "name": "LegendItem",
-              "size": 4614
-            },
-            {
-              "name": "LegendRange",
-              "size": 10530
-            }
-          ]
-        },
-        {
-          "name": "operator",
-          "children": [
-            {
-              "name": "distortion",
-              "children": [
-                {
-                  "name": "BifocalDistortion",
-                  "size": 4461
-                },
-                {
-                  "name": "Distortion",
-                  "size": 6314
-                },
-                {
-                  "name": "FisheyeDistortion",
-                  "size": 3444
-                }
-              ]
-            },
-            {
-              "name": "encoder",
-              "children": [
-                {
-                  "name": "ColorEncoder",
-                  "size": 3179
-                },
-                {
-                  "name": "Encoder",
-                  "size": 4060
-                },
-                {
-                  "name": "PropertyEncoder",
-                  "size": 4138
-                },
-                {
-                  "name": "ShapeEncoder",
-                  "size": 1690
-                },
-                {
-                  "name": "SizeEncoder",
-                  "size": 1830
-                }
-              ]
-            },
-            {
-              "name": "filter",
-              "children": [
-                {
-                  "name": "FisheyeTreeFilter",
-                  "size": 5219
-                },
-                {
-                  "name": "GraphDistanceFilter",
-                  "size": 3165
-                },
-                {
-                  "name": "VisibilityFilter",
-                  "size": 3509
-                }
-              ]
-            },
-            {
-              "name": "IOperator",
-              "size": 1286
-            },
-            {
-              "name": "label",
-              "children": [
-                {
-                  "name": "Labeler",
-                  "size": 9956
-                },
-                {
-                  "name": "RadialLabeler",
-                  "size": 3899
-                },
-                {
-                  "name": "StackedAreaLabeler",
-                  "size": 3202
-                }
-              ]
-            },
-            {
-              "name": "layout",
-              "children": [
-                {
-                  "name": "AxisLayout",
-                  "size": 6725
-                },
-                {
-                  "name": "BundledEdgeRouter",
-                  "size": 3727
-                },
-                {
-                  "name": "CircleLayout",
-                  "size": 9317
-                },
-                {
-                  "name": "CirclePackingLayout",
-                  "size": 12003
-                },
-                {
-                  "name": "DendrogramLayout",
-                  "size": 4853
-                },
-                {
-                  "name": "ForceDirectedLayout",
-                  "size": 8411
-                },
-                {
-                  "name": "IcicleTreeLayout",
-                  "size": 4864
-                },
-                {
-                  "name": "IndentedTreeLayout",
-                  "size": 3174
-                },
-                {
-                  "name": "Layout",
-                  "size": 7881
-                },
-                {
-                  "name": "NodeLinkTreeLayout",
-                  "size": 12870
-                },
-                {
-                  "name": "PieLayout",
-                  "size": 2728
-                },
-                {
-                  "name": "RadialTreeLayout",
-                  "size": 12348
-                },
-                {
-                  "name": "RandomLayout",
-                  "size": 870
-                },
-                {
-                  "name": "StackedAreaLayout",
-                  "size": 9121
-                },
-                {
-                  "name": "TreeMapLayout",
-                  "size": 9191
-                }
-              ]
-            },
-            {
-              "name": "Operator",
-              "size": 2490
-            },
-            {
-              "name": "OperatorList",
-              "size": 5248
-            },
-            {
-              "name": "OperatorSequence",
-              "size": 4190
-            },
-            {
-              "name": "OperatorSwitch",
-              "size": 2581
-            },
-            {
-              "name": "SortOperator",
-              "size": 2023
-            }
-          ]
-        },
-        {
-          "name": "Visualization",
-          "size": 16540
-        }
-      ]
-    }
-  ]
+         ]
+      }
+   ]
 }
