@@ -19,8 +19,9 @@
 						 r = 720,
 						 x = d3.scale.linear().range([0, r]),
 						 y = d3.scale.linear().range([0, r]),
+						 zoomThreshold = 25,
+						 zoomLevel = 1,
 						 node,
-						 zoomlevel = 1,
 						 root,
 						 categoryClasses;
 
@@ -68,17 +69,9 @@
 							.attr("y", function(d) { return d.y; })
 							.attr("dy", ".35em")
 							.attr("text-anchor", "middle")
-							//.style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
 							.style("opacity", function(d) {
-
-								if(zoomlevel >= d.depth) {
-									console.log("Depth: " + d.depth);
-									console.log("Zoomlevel: " + zoomlevel);
-									console.log(d.name);
-									return 1;
-								} else {
-									return 0;
-								}
+								 // +80 due to init
+								return d.r > ( zoomThreshold + 80) ? 1 : 0;
 							})
 							.text(function(d) { return d.name; });
 
@@ -87,7 +80,6 @@
 
 					function zoom(d, i) {
 						var k = r / d.r / 2;
-						console.log(k);
 						x.domain([d.x - d.r, d.x + d.r]);
 						y.domain([d.y - d.r, d.y + d.r]);
 
@@ -102,7 +94,9 @@
 						t.selectAll("text")
 							.attr("x", function(d) { return x(d.x); })
 							.attr("y", function(d) { return y(d.y); })
-							.style("opacity", function(d) { return k * d.r > 20 ? 1 : 0; });
+							.style("opacity", function(d) {
+								return k * d.r > (zoomThreshold + 10) ? 1 : 0;
+							});
 
 						node = d;
 						d3.event.stopPropagation();

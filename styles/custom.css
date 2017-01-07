@@ -212,8 +212,20 @@ circle.parent {
 .legend--holder .legend--maroon:before { color: #85144B; }
 .legend--holder .legend--silver:before { color: #DDDDDD; }
 
-text.text-level-1 {
+text.parent.text-level-1 {
+	fill: #ff7f0e;
+	font-size: 30px !important;
+	font-weight: bold;
+}
+
+text.parent.text-level-2 {
 	fill: #ff7f0e;
 	font-size: 25px !important;
+	font-weight: bold;
+}
+
+text.parent.text-level-3 {
+	fill: #ff7f0e;
+	font-size: 15px !important;
 	font-weight: bold;
 }
