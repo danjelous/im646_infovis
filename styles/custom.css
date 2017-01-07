@@ -108,7 +108,7 @@ body > svg {
    --------------------------------
 	-------- APPLICATION
 	--------------------------------
-	*/
+*/
 
 text {
 	font-size: 11px;
@@ -126,14 +126,18 @@ circle {
 }
 
 .parent {
-	fill: #1f77b4;
-	fill-opacity: .1;
+	fill: #373e45;
 	stroke: steelblue;
+	stroke-width: .5px;
+}
+
+circle.parent {
+	stroke-width: 2.5px;
 }
 
 .parent:hover {
 	stroke: #ff7f0e;
-	stroke-width: .5px;
+	stroke-width: 2.5px;
 }
 
 .child {
@@ -207,3 +211,9 @@ circle {
 .legend--holder .legend--purple:before { color: #B10DC9; }
 .legend--holder .legend--maroon:before { color: #85144B; }
 .legend--holder .legend--silver:before { color: #DDDDDD; }
+
+text.text-level-1 {
+	fill: #ff7f0e;
+	font-size: 25px !important;
+	font-weight: bold;
+}

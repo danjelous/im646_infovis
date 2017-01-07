@@ -20,6 +20,7 @@
 						 x = d3.scale.linear().range([0, r]),
 						 y = d3.scale.linear().range([0, r]),
 						 node,
+						 zoomlevel = 1,
 						 root,
 						 categoryClasses;
 
@@ -54,19 +55,31 @@
 							})
 							.attr("cx", function(d) { return d.x; })
 							.attr("cy", function(d) { return d.y; })
-							.attr("data-legend", function(d) { return d.name})
 							.attr("r", function(d) { return d.r; })
 							.on("click", function(d) { return zoom(node == d ? root : d); });
 
 						vis.selectAll("text")
 							.data(nodes)
 							.enter().append("svg:text")
-							.attr("class", function(d) { return d.children ? "parent" : "child"; })
+							.attr("class", function(d) {
+								var base = "text-level-" + d.depth + " ";
+								return d.children ? base + "parent" : base + "child"; })
 							.attr("x", function(d) { return d.x; })
 							.attr("y", function(d) { return d.y; })
 							.attr("dy", ".35em")
 							.attr("text-anchor", "middle")
-							.style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
+							//.style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
+							.style("opacity", function(d) {
+
+								if(zoomlevel >= d.depth) {
+									console.log("Depth: " + d.depth);
+									console.log("Zoomlevel: " + zoomlevel);
+									console.log(d.name);
+									return 1;
+								} else {
+									return 0;
+								}
+							})
 							.text(function(d) { return d.name; });
 
 						d3.select(window).on("click", function() { zoom(root); });
@@ -74,6 +87,7 @@
 
 					function zoom(d, i) {
 						var k = r / d.r / 2;
+						console.log(k);
 						x.domain([d.x - d.r, d.x + d.r]);
 						y.domain([d.y - d.r, d.y + d.r]);
 
