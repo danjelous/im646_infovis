@@ -6,11 +6,8 @@
 
 body {
   font: 300 36px "Helvetica Neue";
-  height: 640px;
-  margin: 80px 160px 80px 160px;
   overflow: hidden;
   position: relative;
-  width: 960px;
 }
 
 a:link, a:visited {
@@ -142,3 +139,71 @@ circle {
 .child {
 	pointer-events: none;
 }
+
+.chart {
+	max-width: 70%;
+	min-width: 800px;
+	float: left;
+}
+
+.legend {
+	max-width: 30%;
+	float: left;
+	margin-left: 20px;
+}
+
+.legend > h2,
+.legend > h4,
+.legend--holder > h3,
+.legend > h3 {
+	text-align: left;
+	position: relative;
+	bottom: 0;
+}
+
+.legend > h4 {
+	margin-bottom: 15px;
+}
+
+.legend--holder {
+	font-size: 1rem;
+	margin-top: 10px;
+}
+
+.legend--holder ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+.legend--holder li {
+    padding-left: 1em;
+    text-indent: -.7em;
+}
+
+.legend--holder li:before {
+    content: "• ";
+	 height: 40px;
+	 font-size: 30px;
+    vertical-align:middle;
+    line-height:20px;
+}
+
+.legend--holder ul {
+	margin-top: 7px;
+}
+
+.legend--holder .legend--navy:before { color: #001F3F; }
+.legend--holder .legend--blue:before { color: #0074D9; }
+.legend--holder .legend--aqua:before { color: #7FDBFF; }
+.legend--holder .legend--teal:before { color: #39CCCC; }
+.legend--holder .legend--olive:before { color: #3D9970; }
+.legend--holder .legend--green:before { color: #2ECC40; }
+.legend--holder .legend--lime:before { color: #01FF70; }
+.legend--holder .legend--yellow:before { color: #FFDC00; }
+.legend--holder .legend--orange:before { color: #FFDC00; }
+.legend--holder .legend--red:before { color: #FF4136; }
+.legend--holder .legend--fuchsia:before { color: #F012BE; }
+.legend--holder .legend--purple:before { color: #B10DC9; }
+.legend--holder .legend--maroon:before { color: #85144B; }
+.legend--holder .legend--silver:before { color: #DDDDDD; }

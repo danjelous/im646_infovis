@@ -6,110 +6,140 @@
 		<link type="text/css" rel="stylesheet" href="./styles/custom.css">
 		<link type="text/css" rel="stylesheet" href="./styles/category-colors.css">
 	</head>
-<body>
-	<script type="text/javascript" src="./scripts/d3.js"></script>
-	<script type="text/javascript" src="./scripts/d3.layout.js"></script>
-	<script type="text/javascript">
+	<body>
+		<div class="root">
+			<div class="chart">
 
-		var w = 1280,
-			 h = 800,
-			 r = 720,
-			 x = d3.scale.linear().range([0, r]),
-			 y = d3.scale.linear().range([0, r]),
-			 node,
-			 root,
-			 categoryClasses;
+				<script type="text/javascript" src="./scripts/d3.js"></script>
+				<script type="text/javascript" src="./scripts/d3.layout.js"></script>
+				<script type="text/javascript">
 
-		 // Init color matching JSON
-		 d3.json("data/category-color-matching.json", function(data) {
-			categoryClasses = data;
-		 });
+					var w = 1100,
+						 h = 800,
+						 r = 720,
+						 x = d3.scale.linear().range([0, r]),
+						 y = d3.scale.linear().range([0, r]),
+						 node,
+						 root,
+						 categoryClasses;
 
-		var pack = d3.layout.pack()
-			.size([r, r])
-			.value(function(d) { return d.size; })
+					 // Init color matching JSON
+					 d3.json("data/category-color-matching.json", function(data) {
+						categoryClasses = data;
+					 });
 
-		var vis = d3.select("body").insert("svg:svg", "h2")
-			.attr("width", w)
-			.attr("height", h)
-			.append("svg:g")
-			.attr("transform", "translate(" + (w - r) / 2 + "," + (h - r) / 2 + ")");
+					var pack = d3.layout.pack()
+						.size([r, r])
+						.value(function(d) { return d.size; })
 
-		d3.json("data/infovis_bru_sha.json", function(data) {
-			node = root = data;
+					var vis = d3.select(".chart").insert("svg:svg", "h2")
+						.attr("width", w)
+						.attr("height", h)
+						.append("svg:g")
+						.attr("transform", "translate(" + (w - r) / 2 + "," + (h - r) / 2 + ")");
 
-			var nodes = pack.nodes(root);
+					d3.json("data/infovis_bru_sha.json", function(data) {
+						node = root = data;
 
-			vis.selectAll("circle")
-				.data(nodes)
-				.enter().append("svg:circle")
-				.attr("class", function(d) {
-					var base = d.children ? "parent " : "child ";
+						var nodes = pack.nodes(root);
 
-					// Add custom coloring depending on the category
-					return base += addCategoryColor(d.name);
-				})
-				.attr("cx", function(d) { return d.x; })
-				.attr("cy", function(d) { return d.y; })
-				.attr("r", function(d) { return d.r; })
-				.on("click", function(d) { return zoom(node == d ? root : d); });
+						vis.selectAll("circle")
+							.data(nodes)
+							.enter().append("svg:circle")
+							.attr("class", function(d) {
+								var base = d.children ? "parent " : "child ";
 
-			vis.selectAll("text")
-				.data(nodes)
-				.enter().append("svg:text")
-				.attr("class", function(d) { return d.children ? "parent" : "child"; })
-				.attr("x", function(d) { return d.x; })
-				.attr("y", function(d) { return d.y; })
-				.attr("dy", ".35em")
-				.attr("text-anchor", "middle")
-				.style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
-				.text(function(d) { return d.name; });
+								// Add custom coloring depending on the category
+								return base += addCategoryColor(d.name);
+							})
+							.attr("cx", function(d) { return d.x; })
+							.attr("cy", function(d) { return d.y; })
+							.attr("data-legend", function(d) { return d.name})
+							.attr("r", function(d) { return d.r; })
+							.on("click", function(d) { return zoom(node == d ? root : d); });
 
-			d3.select(window).on("click", function() { zoom(root); });
-		});
+						vis.selectAll("text")
+							.data(nodes)
+							.enter().append("svg:text")
+							.attr("class", function(d) { return d.children ? "parent" : "child"; })
+							.attr("x", function(d) { return d.x; })
+							.attr("y", function(d) { return d.y; })
+							.attr("dy", ".35em")
+							.attr("text-anchor", "middle")
+							.style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
+							.text(function(d) { return d.name; });
 
-		function zoom(d, i) {
-			var k = r / d.r / 2;
-			x.domain([d.x - d.r, d.x + d.r]);
-			y.domain([d.y - d.r, d.y + d.r]);
+						d3.select(window).on("click", function() { zoom(root); });
+					});
 
-			var t = vis.transition()
-				.duration(d3.event.altKey ? 7500 : 750);
+					function zoom(d, i) {
+						var k = r / d.r / 2;
+						x.domain([d.x - d.r, d.x + d.r]);
+						y.domain([d.y - d.r, d.y + d.r]);
 
-			t.selectAll("circle")
-				.attr("cx", function(d) { return x(d.x); })
-				.attr("cy", function(d) { return y(d.y); })
-				.attr("r", function(d) { return k * d.r; });
+						var t = vis.transition()
+							.duration(d3.event.altKey ? 7500 : 750);
 
-			t.selectAll("text")
-				.attr("x", function(d) { return x(d.x); })
-				.attr("y", function(d) { return y(d.y); })
-				.style("opacity", function(d) { return k * d.r > 20 ? 1 : 0; });
+						t.selectAll("circle")
+							.attr("cx", function(d) { return x(d.x); })
+							.attr("cy", function(d) { return y(d.y); })
+							.attr("r", function(d) { return k * d.r; });
 
-			node = d;
-			d3.event.stopPropagation();
-		}
+						t.selectAll("text")
+							.attr("x", function(d) { return x(d.x); })
+							.attr("y", function(d) { return y(d.y); })
+							.style("opacity", function(d) { return k * d.r > 20 ? 1 : 0; });
 
-		// returs color codes depending on the category name
-		function addCategoryColor(category) {
+						node = d;
+						d3.event.stopPropagation();
+					}
 
-			if(category === undefined) return "";
+					// returs color codes depending on the category name
+					function addCategoryColor(category) {
 
-			if(category == "") {
-				debugger;
-			}
+						if(category === undefined) return "";
 
-			var defaultClasses = "medium-opacity ",
-			    position = categoryClasses[category];
+						var defaultClasses = "medium-opacity ",
+							 position = categoryClasses[category];
 
+						 if(position !== undefined) {
+							 return defaultClasses + "fill-" + position;
+						 }
 
-			 if(position !== undefined) {
-				 return defaultClasses + "fill-" + position;
-			 }
+						 return "";
+					}
 
-			 return "";
-		}
+				</script>
 
-	</script>
+			</div>
+			<div class="legend">
+
+				<h4>World Explorer</h4>
+				<h3>Daniel Brunner</h3>
+				<h3>Adwait Sharma</h3>
+
+				<div class="legend--holder">
+					<h3>Legend</h3>
+ 					<ul>
+						<li class="legend--navy">Basic form of government</li>
+						<li class="legend--blue">Continent</li>
+						<li class="legend--aqua">Demonym</li>
+						<li class="legend--teal">Diplomatic relation</li>
+						<li class="legend--olive">Electrical plug type</li>
+						<li class="legend--green">Head of government</li>
+						<li class="legend--lime">Member of</li>
+						<li class="legend--yellow">Official language</li>
+						<li class="legend--orange">Shares border with</li>
+						<li class="legend--red">Territorial entity</li>
+						<li class="legend--maroon">Top-level internet domain</li>
+						<li class="legend--fuchsia">Public holiday</li>
+						<li class="legend--purple">Located in time zone</li>
+						<li class="legend--black">Population</li>
+						<li class="legend--gray">Electrical plug type</li>
+						<li class="legend--silver">Official language</li>
+					</ul>
+				</div>
+			</div>
+		</div>
 	</body>
 </html>
