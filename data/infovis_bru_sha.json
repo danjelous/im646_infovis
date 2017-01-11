@@ -11,55 +11,55 @@
                      "children":[
                         {
                            "name":"Mexico",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Canada",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Russia",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Cuba",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"The Bahamas",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Venezuela",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Dominican Republic",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Federated States of Micronesia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Japan",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Kiribati",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Haiti",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Samoa",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Tonga",
-                           "size":2247
+                           "size":5000
                         }
                      ]
                   },
@@ -67,116 +67,116 @@
                      "name":"Demonym",
                      "children":[
                         {
-                           "name":"American (English)",
-                           "size":698
+                           "name":"American",
+                           "size":5000
                         },
                         {
-                           "name":"Américain (French)",
-                           "size":5569
+                           "name":"Américain",
+                           "size":5000
                         },
                         {
-                           "name":"Américaine (French)",
-                           "size":853
+                           "name":"Américaine",
+                           "size":5000
                         },
                         {
-                           "name":"アメリカ人 (Japanese)",
-                           "size":5569
+                           "name":"アメリカ人",
+                           "size":5000
                         },
                         {
-                           "name":"米国人 (Japanese)",
-                           "size":353
+                           "name":"米国人",
+                           "size":5000
                         },
                         {
-                           "name":"US-Amerikaner (German)",
-                           "size":5569
+                           "name":"US-Amerikaner",
+                           "size":5000
                         },
                         {
-                           "name":"US-Amerikanerin (German)",
-                           "size":353
+                           "name":"US-Amerikanerin",
+                           "size":5000
                         },
                         {
-                           "name":"Amerikaner (German)",
-                           "size":5569
+                           "name":"Amerikaner",
+                           "size":5000
                         },
                         {
-                           "name":"Amerikanerin (German)",
-                           "size":353
+                           "name":"Amerikanerin",
+                           "size":5000
                         },
                         {
-                           "name":"American (Romanian)",
-                           "size":5569
+                           "name":"American",
+                           "size":5000
                         },
                         {
-                           "name":"Americancă (Romanian)",
-                           "size":353
+                           "name":"Americancă",
+                           "size":5000
                         },
                         {
-                           "name":"estadounidense (Spanish)",
-                           "size":2247
+                           "name":"estadounidense",
+                           "size":5000
                         },
                         {
-                           "name":"Американац (Serbian)",
-                           "size":2247
+                           "name":"Американац",
+                           "size":5000
                         },
                         {
-                           "name":"amerikan (Swedish)",
-                           "size":5569
+                           "name":"amerikan",
+                           "size":5000
                         },
                         {
-                           "name":"amerikai (Hungarian)",
-                           "size":853
+                           "name":"amerikai",
+                           "size":5000
                         },
                         {
-                           "name":"Αμερικανός (Greek)",
-                           "size":5569
+                           "name":"Αμερικανός",
+                           "size":5000
                         },
                         {
-                           "name":"Αμερικανή (Greek)",
-                           "size":353
+                           "name":"Αμερικανή",
+                           "size":5000
                         },
                         {
-                           "name":"Αμερικανοί (Greek)",
-                           "size":5569
+                           "name":"Αμερικανοί",
+                           "size":5000
                         },
                         {
-                           "name":"estatunidenc (Catalan)",
-                           "size":353
+                           "name":"estatunidenc",
+                           "size":5000
                         },
                         {
-                           "name":"estadounidenses (Spanish)",
-                           "size":5569
+                           "name":"estadounidenses",
+                           "size":5000
                         },
                         {
-                           "name":"американски (Bulgarian)",
-                           "size":353
+                           "name":"американски",
+                           "size":5000
                         },
                         {
-                           "name":"ამერიკელი (Georgian)",
-                           "size":5569
+                           "name":"ამერიკელი",
+                           "size":5000
                         },
                         {
-                           "name":"Usano (Ido)",
-                           "size":353
+                           "name":"Usano",
+                           "size":5000
                         },
                         {
-                           "name":"usonano (Esperanto)",
-                           "size":2247
+                           "name":"usonano",
+                           "size":5000
                         },
                         {
-                           "name":"Lamerikänan (Volapük)",
-                           "size":2247
+                           "name":"Lamerikänan",
+                           "size":5000
                         },
                         {
-                           "name":"estatunidenca (Catalan)",
-                           "size":353
+                           "name":"estatunidenca",
+                           "size":5000
                         },
                         {
-                           "name":"nord-americà (Catalan)",
-                           "size":2247
+                           "name":"nord-americà",
+                           "size":5000
                         },
                         {
-                           "name":"nord-americana (Catalan)",
-                           "size":2247
+                           "name":"nord-americana",
+                           "size":5000
                         }
                      ]
                   },
@@ -185,11 +185,11 @@
                      "children":[
                         {
                            "name":"Type A",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Type B",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -198,11 +198,11 @@
                      "children":[
                         {
                            "name":"presidential system",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"federal republic",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -211,11 +211,11 @@
                      "children":[
                         {
                            "name":"North America",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Oceania",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -223,20 +223,20 @@
                      "name":"motto text",
                      "children":[
                         {
-                           "name":"In God We Trust (English)",
-                           "size":698
+                           "name":"In God We Trust",
+                           "size":5000
                         },
                         {
-                           "name":"E Pluribus Unum (Latin)",
-                           "size":5569
+                           "name":"E Pluribus Unum",
+                           "size":5000
                         },
                         {
-                           "name":"Confiem en Déu (Catalan)",
-                           "size":698
+                           "name":"Confiem en Déu",
+                           "size":5000
                         },
                         {
-                           "name":"De molts, un (Catalan)",
-                           "size":5569
+                           "name":"De molts, un",
+                           "size":5000
                         }
                      ]
                   },
@@ -245,19 +245,19 @@
                      "children":[
                         {
                            "name":"1990: 248,709,873±0",
-                           "size":698
+                           "size":4000
                         },
                         {
                            "name":"2000: 281,421,906±0",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"2010: 308,745,538±0",
-                           "size":698
+                           "size":7000
                         },
                         {
                            "name":"2016: 323,952,889±100",
-                           "size":5569
+                           "size":10000
                         }
                      ]
                   },
@@ -266,19 +266,19 @@
                      "children":[
                         {
                            "name":".us",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":".gov",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":".mil",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":".edu",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -287,43 +287,43 @@
                      "children":[
                         {
                            "name":"UTC−06:00",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC−07:00",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"UTC−08:00",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC−09:00",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"UTC−12:00",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC−11:00",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"UTC−04:00",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC+10:00",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"UTC+12:00",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC-05:00",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -332,39 +332,39 @@
                      "children":[
                         {
                            "name":"Independence Day",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"New Year's Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Martin Luther King, Jr. Day",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Washington's Birthday",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Memorial Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Labor Day",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Columbus Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Veterans Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Thanksgiving",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -373,91 +373,91 @@
                      "children":[
                         {
                            "name":"United Nations Security Council",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"United Nations",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"North Atlantic Treaty Organisation",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"G8",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Organisation for Economic Co-operation and Development",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Trade Organization",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Arctic Council",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Organisation for the Prohibition of Chemical Weapons",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"G20",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Asia-Pacific Economic Cooperation",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"North American Free Trade Agreement",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Organization for Security and Co-operation in Europe",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"International Bank for Reconstruction and Development",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Development Association",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Finance Corporation",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Multilateral Investment Guarantee Agency",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Centre for Settlement of Investment Disputes",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"African Development Bank",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Association of Southeast Asian Nations Regional Forum",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Asian Development Bank",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Australia Group",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"ANZUS",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -466,87 +466,87 @@
                      "children":[
                         {
                            "name":"Afghanistan",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Albania",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"People's Republic of China",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Germany",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Russia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Australia",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Israel",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Brazil",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Iraq",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Serbia",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Canada",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Japan",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Italy",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Liechtenstein",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Argentina",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Zambia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"India",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Lithuania",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Cape Verde",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Yemen",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Swaziland",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -555,179 +555,179 @@
                      "children":[
                         {
                            "name":"George W. Bush",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Bill Clinton",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"George H. W. Bush",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Ronald Reagan",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Jimmy Carter",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Gerald Ford",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Richard Nixon",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Lyndon B. Johnson",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"John F. Kennedy",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Dwight D. Eisenhower",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Harry S. Truman",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Franklin Delano Roosevelt",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Herbert Hoover",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Calvin Coolidge",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Warren G. Harding",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Woodrow Wilson",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"William Howard Taft",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Theodore Roosevelt",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"William McKinley",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Grover Cleveland",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Benjamin Harrison",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Grover Cleveland",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"James A. Garfield",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Rutherford B. Hayes",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Ulysses S. Grant",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Andrew Johnson",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Abraham Lincoln",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"James Buchanan",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Franklin Pierce",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Millard Fillmore",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Zachary Taylor",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"James K. Polk",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"John Tyler",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"William Henry Harrison",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Martin Van Buren",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Andrew Jackson",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"John Quincy Adams",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"James Monroe",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"James Madison",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Thomas Jefferson",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"John Adams",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"George Washington",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Chester A. Arthur",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Barack Obama",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -736,273 +736,229 @@
                      "children":[
                         {
                            "name":"Alabama",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Arkansas",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"California",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Colorado",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Connecticut",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Florida",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Georgia",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Hawaii",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Idaho",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Illinois",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Indiana",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Iowa",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Kansas",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Kentucky",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Louisiana",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Maine",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Maryland",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Massachusetts",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Michigan",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Minnesota",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Mississippi",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Missouri",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Montana",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Nebraska",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Nevada",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"New Hampshire",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"New Jersey",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"New York",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"North Carolina",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"North Dakota",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Ohio",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Oklahoma",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Oregon",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Pennsylvania",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Rhode Island",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"South Carolina",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"South Dakota",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Tennessee",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Texas",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Utah",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Vermont",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Virginia",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Washington",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"West Virginia",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Wisconsin",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Wyoming",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"American Samoa",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Washington, D.C.",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Guam",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Northern Mariana Islands",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Puerto Rico",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"United States Virgin Islands",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"United States Minor Outlying Islands",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Alaska",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Arizona",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"Delaware",
-                           "size":2247
+                           "size":5000
                         }
                      ]
-                  },
-                  {
-                     "name":"Highest Point - Denali",
-                     "size":11275
-                  },
-                  {
-                     "name":"Head of government - President",
-                     "size":11275
-                  },
-                  {
-                     "name":"currency - USD",
-                     "size":11275
-                  },
-                  {
-                     "name":"legislative body - US Congress",
-                     "size":11275
-                  },
-                  {
-                     "name":"Highest judicial authority - Supreme Court of the US",
-                     "size":11275
-                  },
-                  {
-                     "name":"Seal description - Great Seal of the United States",
-                     "size":11275
-                  },
-                  {
-                     "name":"official language - English",
-                     "size":11275
-                  },
-                  {
-                     "name":"country calling code - +1",
-                     "size":11275
-                  },
-                  {
-                     "name":"driving side - right",
-                     "size":11275
-                  },
-                  {
-                     "name":"capital - Washington, D.C.",
-                     "size":11275
-                  },
-                  {
-                     "name":"nominal GDP - 17,419,000,000,000±1 USD",
-                     "size":11275
                   }
                ]
             },
@@ -1014,35 +970,35 @@
                      "children":[
                         {
                            "name":"United States of America",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Saint Pierre and Miquelon",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Greenland",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Dominion of Newfoundland",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Rupert's Land",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"United Colony of British Columbia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"British Arctic Territories",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Prince Edward Island",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -1050,88 +1006,88 @@
                      "name":"Demonym",
                      "children":[
                         {
-                           "name":"Canadian (English)",
-                           "size":698
+                           "name":"Canadian",
+                           "size":5000
                         },
                         {
-                           "name":"Kanadyjczyk (Polish)",
-                           "size":5569
+                           "name":"Kanadyjczyk",
+                           "size":5000
                         },
                         {
-                           "name":"Kanadyjka (Polish)",
-                           "size":853
+                           "name":"Kanadyjka",
+                           "size":5000
                         },
                         {
-                           "name":"Kanadier (German)",
-                           "size":5569
+                           "name":"Kanadier",
+                           "size":5000
                         },
                         {
-                           "name":"Kanadierin (German)",
-                           "size":353
+                           "name":"Kanadierin",
+                           "size":5000
                         },
                         {
-                           "name":"Canadees (Dutch)",
-                           "size":5569
+                           "name":"Canadees",
+                           "size":5000
                         },
                         {
-                           "name":"Canadien (French)",
-                           "size":353
+                           "name":"Canadien",
+                           "size":5000
                         },
                         {
-                           "name":"Canadienne (French)",
-                           "size":5569
+                           "name":"Canadienne",
+                           "size":5000
                         },
                         {
-                           "name":"カナダ人 (Japanese)",
-                           "size":353
+                           "name":"カナダ人",
+                           "size":5000
                         },
                         {
-                           "name":"kanadai (Hungarian)",
-                           "size":5569
+                           "name":"kanadai",
+                           "size":5000
                         },
                         {
-                           "name":"कनाडा (Hindi)",
-                           "size":353
+                           "name":"कनाडा",
+                           "size":5000
                         },
                         {
-                           "name":"canadier (Danish)",
-                           "size":2247
+                           "name":"canadier",
+                           "size":5000
                         },
                         {
-                           "name":"canadenc (Catalan)",
-                           "size":2247
+                           "name":"canadenc",
+                           "size":5000
                         },
                         {
-                           "name":"Kanaďan (Czech)",
-                           "size":5569
+                           "name":"Kanaďan",
+                           "size":5000
                         },
                         {
-                           "name":"Kanaďanka (Czech)",
-                           "size":853
+                           "name":"Kanaďanka",
+                           "size":5000
                         },
                         {
-                           "name":"canadese (Italian)",
-                           "size":5569
+                           "name":"canadese",
+                           "size":5000
                         },
                         {
-                           "name":"Kanadano (Ido)",
-                           "size":353
+                           "name":"Kanadano",
+                           "size":5000
                         },
                         {
-                           "name":"kanadano (Esperanto)",
-                           "size":5569
+                           "name":"kanadano",
+                           "size":5000
                         },
                         {
-                           "name":"Kanadänan (Volapük)",
-                           "size":353
+                           "name":"Kanadänan",
+                           "size":5000
                         },
                         {
-                           "name":"كندا (Arabic)",
-                           "size":5569
+                           "name":"كندا",
+                           "size":5000
                         },
                         {
-                           "name":"加拿大人 (Chinese)",
-                           "size":353
+                           "name":"加拿大人",
+                           "size":5000
                         }
                      ]
                   },
@@ -1140,11 +1096,11 @@
                      "children":[
                         {
                            "name":"Type A",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Type B",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -1153,20 +1109,24 @@
                      "children":[
                         {
                            "name":"English",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"French",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
                   {
-                     "name":"motto text",
+                     "name":"Motto Text",
                      "children":[
                         {
-                           "name":"A mari usque ad mare (Latin)",
-                           "size":9980
+                           "name":"English",
+                           "size":5000
+                        },
+                        {
+                           "name":"A mari usque ad mare",
+                           "size":5000
                         }
                      ]
                   },
@@ -1175,27 +1135,27 @@
                      "children":[
                         {
                            "name":"1990: 27,791,000±0",
-                           "size":698
+                           "size":3000
                         },
                         {
                            "name":"1995: 29,354,000±0",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"2000: 30,769,700±0",
-                           "size":698
+                           "size":6000
                         },
                         {
                            "name":"2005: 32,312,000±0",
-                           "size":5569
+                           "size":8000
                         },
                         {
                            "name":"2010: 34,005,274±0",
-                           "size":5569
+                           "size":10000
                         },
                         {
                            "name":"2016: 36,155,487±1",
-                           "size":5569
+                           "size":12000
                         }
                      ]
                   },
@@ -1204,7 +1164,7 @@
                      "children":[
                         {
                            "name":".ca",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -1213,31 +1173,31 @@
                      "children":[
                         {
                            "name":"Newfoundland",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Atlantic",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Central",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Mountain",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Pacific",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Eastern",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Saskatchewan",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -1246,79 +1206,79 @@
                      "children":[
                         {
                            "name":"New Year's Day",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Good Friday",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Canada Day",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Labour Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Christmas",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Easter Monday",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Victoria Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Thanksgiving",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Remembrance Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Boxing Day",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Family Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Civic Holiday",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Saint Patrick's Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Saint George's Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"National Aboriginal Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Discovery Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Saint-Jean-Baptiste Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"The Twelfth",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"National Patriots' Day",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -1327,95 +1287,95 @@
                      "children":[
                         {
                            "name":"North Atlantic Treaty Organisation",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"United Nations",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Commonwealth of Nations",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"G8",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Organisation for Economic Co-operation and Development",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Trade Organization",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Arctic Council",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Organisation internationale de la Francophonie",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"G20",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Asia-Pacific Economic Cooperation",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"North American Free Trade Agreement",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Organization for Security and Co-operation in Europe",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"International Bank for Reconstruction and Development",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Development Association",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Finance Corporation",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Multilateral Investment Guarantee Agency",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Centre for Settlement of Investment Disputes",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"African Development Bank",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Association of Southeast Asian Nations Regional Forum",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Asian Development Bank",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Australia Group",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Caribbean Development Bank",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Organization of American States",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -1424,171 +1384,171 @@
                      "children":[
                         {
                            "name":"United States of America",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Israel",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Sweden",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Colombia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Ukraine",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"European Union",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Germany",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Denmark",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Philippines",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Hong Kong",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"South Korea",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Qatar",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Indonesia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Russia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Romania",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Panama",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Poland",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Pakistan",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Norway",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"North Korea",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"New Zealand",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Kingdom of the Netherlands",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Saudi Arabia",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Singapore",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"United Kingdom",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"United Arab Emirates",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Turkey",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Switzerland",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Soviet Union",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Mozambique",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"South Africa",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Namibia",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Malaysia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Morocco",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Cyprus",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Finland",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Ethiopia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Egypt",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Italy",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Mongolia",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Australia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Brazil",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -1597,19 +1557,19 @@
                      "children":[
                         {
                            "name":"Stephen Harper",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"John A. Macdonald",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Alexander Mackenzie",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Justin Trudeau",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -1618,55 +1578,55 @@
                      "children":[
                         {
                            "name":"Ontario",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Quebec",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Nova Scotia",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"New Brunswick",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Manitoba",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Newfoundland and Labrador",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Prince Edward Island",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Saskatchewan",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Alberta",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Yukon",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Northwest Territories",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Nunavut",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"British Columbia",
-                           "size":2247
+                           "size":5000
                         }
                      ]
                   },
@@ -1675,65 +1635,17 @@
                      "children":[
                         {
                            "name":"parliamentary monarchy",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"constitutional monarchy",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"federation",
-                           "size":5569
+                           "size":5000
                         }
                      ]
-                  },
-                  {
-                     "name":"Highest Point - Mount Logan",
-                     "size":11275
-                  },
-                  {
-                     "name":"office held by Head of government - Prime Minister",
-                     "size":11275
-                  },
-                  {
-                     "name":"currency - CAD",
-                     "size":11275
-                  },
-                  {
-                     "name":"Central Bank: Bank of Canada",
-                     "size":11275
-                  },
-                  {
-                     "name":"legislative body - Parliament of Canada",
-                     "size":11275
-                  },
-                  {
-                     "name":"Highest judicial authority - Supreme Court of Canada",
-                     "size":11275
-                  },
-                  {
-                     "name":"Seal description - Great Seal of Canada",
-                     "size":11275
-                  },
-                  {
-                     "name":"country calling code - +1",
-                     "size":11275
-                  },
-                  {
-                     "name":"Continent - North America",
-                     "size":11275
-                  },
-                  {
-                     "name":"driving side - right",
-                     "size":11275
-                  },
-                  {
-                     "name":"capital - Ottawa",
-                     "size":11275
-                  },
-                  {
-                     "name":"nominal GDP - 1,785,386,649,602±0 USD",
-                     "size":11275
                   }
                ]
             }
@@ -1750,7 +1662,7 @@
                      "children":[
                         {
                            "name":"United Kingdom",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -1758,36 +1670,36 @@
                      "name":"Demonym",
                      "children":[
                         {
-                           "name":"Ier (Dutch)",
-                           "size":698
+                           "name":"Ier",
+                           "size":5000
                         },
                         {
-                           "name":"Irish (English)",
-                           "size":5569
+                           "name":"Irish",
+                           "size":5000
                         },
                         {
-                           "name":"ír (Hungarian)",
-                           "size":853
+                           "name":"ír",
+                           "size":5000
                         },
                         {
-                           "name":"Irlandczyk (Polish)",
-                           "size":5569
+                           "name":"Irlandczyk",
+                           "size":5000
                         },
                         {
-                           "name":"Irlandka (Polish)",
-                           "size":353
+                           "name":"Irlandka",
+                           "size":5000
                         },
                         {
-                           "name":"Irlandczycy (Polish)",
-                           "size":5569
+                           "name":"Irlandczycy",
+                           "size":5000
                         },
                         {
-                           "name":"Éireannach (Irish)",
-                           "size":353
+                           "name":"Éireannach",
+                           "size":5000
                         },
                         {
-                           "name":"Lireyänan (Volapük)",
-                           "size":5569
+                           "name":"Lireyänan",
+                           "size":5000
                         }
                      ]
                   },
@@ -1796,7 +1708,7 @@
                      "children":[
                         {
                            "name":"BS 1363",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -1805,7 +1717,7 @@
                      "children":[
                         {
                            "name":"republic",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -1814,7 +1726,7 @@
                      "children":[
                         {
                            "name":"Europe",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -1823,19 +1735,19 @@
                      "children":[
                         {
                            "name":"1990: 3,513,974±0",
-                           "size":698
+                           "size":3000
                         },
                         {
                            "name":"2000: 3,805,174±0",
-                           "size":5569
+                           "size":4000
                         },
                         {
                            "name":"2010: 4,560,155±0",
-                           "size":698
+                           "size":5500
                         },
                         {
                            "name":"2013: 4,593,100±0",
-                           "size":5569
+                           "size":5700
                         }
                      ]
                   },
@@ -1844,7 +1756,7 @@
                      "children":[
                         {
                            "name":".ie",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -1853,11 +1765,11 @@
                      "children":[
                         {
                            "name":"UTC±00:00 (standard)",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC+01:00 (DST)",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -1866,63 +1778,63 @@
                      "children":[
                         {
                            "name":"European Union",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"United Nations",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Organisation for Economic Co-operation and Development",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Council of Europe",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"European Space Agency",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Trade Organization",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Nordic Battle Group",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Organization for Security and Co-operation in Europe",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Bank for Reconstruction and Development",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Development Association",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"International Finance Corporation",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Multilateral Investment Guarantee Agency",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"International Centre for Settlement of Investment Disputes",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Asian Development Bank",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Australia Group",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -1931,31 +1843,31 @@
                      "children":[
                         {
                            "name":"Italy",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"France",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Germany",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Zambia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Australia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Russia",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Canada",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -1964,7 +1876,7 @@
                      "children":[
                         {
                            "name":"Michael Higgins",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -1973,158 +1885,122 @@
                      "children":[
                         {
                            "name":"County Cork",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"County Kerry",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"County Waterford",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"County Wexford",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"County Galway",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"County Laois",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"County Kildare",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"County Donegal",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"County Dublin",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"County Westmeath",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"County Leitrim",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"County Mayo",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Roscommon",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Clare",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Tipperary",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Carlow",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Longford",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Louth",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Offaly",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Wicklow",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Cavan",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Monaghan",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Meath",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Kilkenny",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Limerick",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"County Sligo",
-                           "size":2247
+                           "size":5000
                         }
                      ]
-                  },
-                  {
-                     "name":"Highest Point - Carrauntoohil",
-                     "size":11275
-                  },
-                  {
-                     "name":"Head of government - Enda Kenny",
-                     "size":11275
-                  },
-                  {
-                     "name":"currency - Euro",
-                     "size":11275
-                  },
-                  {
-                     "name":"legislative body - Oireachtas",
-                     "size":11275
-                  },
-                  {
-                     "name":"Highest judicial authority - Supreme Court of Ireland",
-                     "size":11275
                   },
                   {
                      "name":"Official language",
                      "children":[
                         {
                            "name":"English",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Irish",
-                           "size":5569
+                           "size":5000
                         }
                      ]
-                  },
-                  {
-                     "name":"country calling code - +353",
-                     "size":11275
-                  },
-                  {
-                     "name":"Driving side - left",
-                     "size":11275
-                  },
-                  {
-                     "name":"capital - Dublin",
-                     "size":11275
-                  },
-                  {
-                     "name":"Deepest point - North Slob",
-                     "size":11275
                   }
                ]
             },
@@ -2136,19 +2012,19 @@
                      "children":[
                         {
                            "name":"Ireland",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"France",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Denmark",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Venezuela",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2156,128 +2032,128 @@
                      "name":"Demonym",
                      "children":[
                         {
-                           "name":"British (English)",
-                           "size":698
+                           "name":"British",
+                           "size":5000
                         },
                         {
-                           "name":"Britannique (French)",
-                           "size":5569
+                           "name":"Britannique",
+                           "size":5000
                         },
                         {
-                           "name":"Brite (German)",
-                           "size":853
+                           "name":"Brite",
+                           "size":5000
                         },
                         {
-                           "name":"Britin (German)",
-                           "size":5569
+                           "name":"Britin",
+                           "size":5000
                         },
                         {
-                           "name":"Brytyjczycy (Polish)",
-                           "size":353
+                           "name":"Brytyjczycy",
+                           "size":5000
                         },
                         {
-                           "name":"británicos (Spanish)",
-                           "size":5569
+                           "name":"británicos",
+                           "size":5000
                         },
                         {
-                           "name":"英國人 (Chinese)",
-                           "size":353
+                           "name":"英國人",
+                           "size":5000
                         },
                         {
-                           "name":"CBritové (Czech)",
-                           "size":5569
+                           "name":"CBritové",
+                           "size":5000
                         },
                         {
-                           "name":"brite (Danish)",
-                           "size":353
+                           "name":"brite",
+                           "size":5000
                         },
                         {
-                           "name":"breti (Faroese)",
-                           "size":5569
+                           "name":"breti",
+                           "size":5000
                         },
                         {
-                           "name":"britit (Finnish)",
-                           "size":353
+                           "name":"britit",
+                           "size":5000
                         },
                         {
-                           "name":"Βρετανός (Greek)",
-                           "size":2247
+                           "name":"Βρετανός",
+                           "size":5000
                         },
                         {
-                           "name":"Βρετανή (Greek)",
-                           "size":2247
+                           "name":"Βρετανή",
+                           "size":5000
                         },
                         {
-                           "name":"Orang Inggris (Indonesian)",
-                           "size":5569
+                           "name":"Orang Inggris",
+                           "size":5000
                         },
                         {
-                           "name":"britannici (Italian)",
-                           "size":853
+                           "name":"britannici",
+                           "size":5000
                         },
                         {
-                           "name":"בריטי (Hebrew)",
-                           "size":5569
+                           "name":"בריטי",
+                           "size":5000
                         },
                         {
-                           "name":"イギリス人 (Japanese)",
-                           "size":353
+                           "name":"イギリス人",
+                           "size":5000
                         },
                         {
-                           "name":"Wong Inggeris (Javanese)",
-                           "size":5569
+                           "name":"Wong Inggeris",
+                           "size":5000
                         },
                         {
-                           "name":"Британци (Macedonian)",
-                           "size":353
+                           "name":"Британци",
+                           "size":5000
                         },
                         {
-                           "name":"ब्रिटिश (Marathi)",
-                           "size":5569
+                           "name":"ब्रिटिश",
+                           "size":5000
                         },
                         {
-                           "name":"brite (Norwegian Bokmål)",
-                           "size":353
+                           "name":"brite",
+                           "size":5000
                         },
                         {
-                           "name":"brite (Norwegian Nynorsk)",
-                           "size":5569
+                           "name":"brite",
+                           "size":5000
                         },
                         {
-                           "name":"britânicos (Portuguese)",
-                           "size":853
+                           "name":"britânicos",
+                           "size":5000
                         },
                         {
-                           "name":"britanic (Romanian)",
-                           "size":5569
+                           "name":"britanic",
+                           "size":5000
                         },
                         {
-                           "name":"брита́нец (Russian)",
-                           "size":353
+                           "name":"брита́нец",
+                           "size":5000
                         },
                         {
-                           "name":"Breatannaich (Scottish Gaelic)",
-                           "size":5569
+                           "name":"Breatannaich",
+                           "size":5000
                         },
                         {
-                           "name":"Brit (Slovak)",
-                           "size":353
+                           "name":"Brit",
+                           "size":5000
                         },
                         {
-                           "name":"britt (Swedish)",
-                           "size":5569
+                           "name":"britt",
+                           "size":5000
                         },
                         {
-                           "name":"brittiska (Swedish)",
-                           "size":353
+                           "name":"brittiska",
+                           "size":5000
                         },
                         {
-                           "name":"brit (Hungarian)",
-                           "size":5569
+                           "name":"brit",
+                           "size":5000
                         },
                         {
-                           "name":"بريطاني (Arabic)",
-                           "size":353
+                           "name":"بريطاني",
+                           "size":5000
                         }
                      ]
                   },
@@ -2286,7 +2162,7 @@
                      "children":[
                         {
                            "name":"BS 1363",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -2295,11 +2171,11 @@
                      "children":[
                         {
                            "name":"English",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Welsh",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2308,19 +2184,19 @@
                      "children":[
                         {
                            "name":"1990: 57,247,586±0",
-                           "size":698
+                           "size":3000
                         },
                         {
                            "name":"2000: 58,892,514±0",
-                           "size":5569
+                           "size":3500
                         },
                         {
                            "name":"2010: 62,766,365±0",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"2016: 65,102,385±1",
-                           "size":5569
+                           "size":8000
                         }
                      ]
                   },
@@ -2329,11 +2205,11 @@
                      "children":[
                         {
                            "name":".uk",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":".gb",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2342,35 +2218,35 @@
                      "children":[
                         {
                            "name":"UTC±00:00",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC+02:00",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"UTC−08:00",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC+01:00",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"UTC−04:00",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC+02:00",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"UTC−05:00",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"UTC+06:00",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2379,87 +2255,87 @@
                      "children":[
                         {
                            "name":"European Union",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"United Nations",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"North Atlantic Treaty Organisation",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Commonwealth of Nations",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Council of Europe",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"G8",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Organisation for Economic Co-operation and Development",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"European Space Agency",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Trade Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"G20",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"United Nations Security Council",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"European Southern Observatory",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Organization for Security and Co-operation in Europe",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Development Association",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Finance Corporation",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Multilateral Investment Guarantee Agency",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Centre for Settlement of Investment Disputes",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"African Development Bank",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Asian Development Bank",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Australia Group",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Caribbean Development Bank",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2468,43 +2344,43 @@
                      "children":[
                         {
                            "name":"Canada",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Italy",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Brazil",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Germany",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Israel",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"France",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Lithuania",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Australia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Serbia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Yemen",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -2513,11 +2389,11 @@
                      "children":[
                         {
                            "name":"David Cameron",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Theresa May",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2526,19 +2402,19 @@
                      "children":[
                         {
                            "name":"Elizabeth II",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"George VI",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Edward VIII",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"George V",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2547,23 +2423,23 @@
                      "children":[
                         {
                            "name":"England",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Wales",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Scotland",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Northern Ireland",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Southern Ireland",
-                           "size":353
+                           "size":5000
                         }
                      ]
                   },
@@ -2572,69 +2448,17 @@
                      "children":[
                         {
                            "name":"parliamentary monarchy",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"constitutional monarchy",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"unitary state",
-                           "size":5569
+                           "size":5000
                         }
                      ]
-                  },
-                  {
-                     "name":"Highest Point - Ben Nevis",
-                     "size":11275
-                  },
-                   {
-                     "name":"Head of state - Monarch of the United Kingdom",
-                     "size":11275
-                  },
-                  {
-                     "name":"Deepest Point - The Fens",
-                     "size":11275
-                  },
-                  {
-                     "name":"office held by Head of government - Prime Minister",
-                     "size":11275
-                  },
-                  {
-                     "name":"currency - pound sterling",
-                     "size":11275
-                  },
-                  {
-                     "name":"Central Bank: Bank of England",
-                     "size":11275
-                  },
-                  {
-                     "name":"legislative body - Parliament of the United Kingdom",
-                     "size":11275
-                  },
-                  {
-                     "name":"Highest judicial authority - Supreme Court of the United Kingdom",
-                     "size":11275
-                  },
-                  {
-                     "name":"country calling code - +44",
-                     "size":11275
-                  },
-                  {
-                     "name":"Continent - Europe",
-                     "size":11275
-                  },
-                  {
-                     "name":"driving side - left",
-                     "size":11275
-                  },
-                  {
-                     "name":"capital - London",
-                     "size":11275
-                  },
-                  {
-                     "name":"nominal GDP - 2,988,893,283,565±1 USD",
-                     "size":11275
                   }
                ]
             }
@@ -2651,23 +2475,23 @@
                      "children":[
                         {
                            "name":"South Korea",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Russia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"People's Republic of China",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Japan",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Soviet Union",
-                           "size":353
+                           "size":5000
                         }
                      ]
                   },
@@ -2675,40 +2499,40 @@
                      "name":"Demonym",
                      "children":[
                         {
-                           "name":"Noord-Koreaan (Dutch)",
-                           "size":698
+                           "name":"Noord-Koreaan",
+                           "size":5000
                         },
                         {
-                           "name":"nord-coréen (French)",
-                           "size":5569
+                           "name":"nord-coréen",
+                           "size":5000
                         },
                         {
-                           "name":"nord-coréenne (French)",
-                           "size":853
+                           "name":"nord-coréenne",
+                           "size":5000
                         },
                         {
-                           "name":"朝鮮人 (Japanese)",
-                           "size":5569
+                           "name":"朝鮮人",
+                           "size":5000
                         },
                         {
-                           "name":"North Korean (English)",
-                           "size":353
+                           "name":"North Korean",
+                           "size":5000
                         },
                         {
-                           "name":"조선인 (Korean)",
-                           "size":5569
+                           "name":"조선인",
+                           "size":5000
                         },
                         {
-                           "name":"朝鮮人 (Chinese)",
-                           "size":353
+                           "name":"朝鮮人",
+                           "size":5000
                         },
                         {
-                           "name":"észak-koreai (Hungarian)",
-                           "size":5569
+                           "name":"észak-koreai",
+                           "size":5000
                         },
                         {
-                           "name":"Nord-Koreano (Ido)",
-                           "size":353
+                           "name":"Nord-Koreano",
+                           "size":5000
                         }
                      ]
                   },
@@ -2717,15 +2541,15 @@
                      "children":[
                         {
                            "name":"Type A",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Europlug",
-                           "size":5569
+                           "size":5000
                         },
                         {
                           "name":"Schuko",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2734,7 +2558,7 @@
                      "children":[
                         {
                            "name":"Family dictatorship",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -2743,7 +2567,7 @@
                      "children":[
                         {
                            "name":"Asia",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -2752,19 +2576,19 @@
                      "children":[
                         {
                            "name":"1990:20,194,361±0",
-                           "size":698
+                           "size":3000
                         },
                         {
                            "name":"2000:22,840,225±0",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"2010:24,500,520±0",
-                           "size":698
+                           "size":6000
                         },
                         {
                            "name":"2016:24,895,480±0",
-                           "size":5569
+                           "size":6569
                         }
                      ]
                   },
@@ -2773,7 +2597,7 @@
                      "children":[
                         {
                            "name":".kp",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -2782,7 +2606,7 @@
                      "children":[
                         {
                            "name":"UTC+08:30",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -2791,103 +2615,103 @@
                      "children":[
                         {
                            "name":"Food and Agriculture Organization of the United Nations",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"United Nations",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Group of 77",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"International Civil Aviation Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Red Cross and Red Crescent Movement",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Fund for Agricultural Development",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"International Federation of Red Cross and Red Crescent Societies",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Hydrographic Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Maritime Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Olympic Committee",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Inter-Parliamentary Union",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Organization for Standardization",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"International Telecommunications Satellite Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Telecommunication Union",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Non-Aligned Movement",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"United Nations Conference on Trade and Development",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"United Nations Educational, Scientific and Cultural Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"United Nations Industrial Development Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Tourism Organization",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Universal Postal Union",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Federation of Trade Unions",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Health Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Intellectual Property Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Meteorological Organization",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Association of Southeast Asian Nations Regional Forum",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2896,23 +2720,23 @@
                      "children":[
                         {
                            "name":"Germany",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Canada",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Italy",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Brazil",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Australia",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -2921,15 +2745,15 @@
                      "children":[
                         {
                            "name":"Kim Jong-un",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Kim Il-sung",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Kim Jong-il",
-                           "size":853
+                           "size":5000
                         }
                      ]
                   },
@@ -2938,81 +2762,53 @@
                      "children":[
                         {
                            "name":"Pyongyang",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"South Pyongan Province",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"North Pyongan Province",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Chagang Province",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"South Hwanghae Province",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"North Hwanghae Province",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Kangwon Province",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"South Hamgyong Province",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"North Hamgyong Province",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Ryanggang Province",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Rason",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Nampho",
-                           "size":2247
+                           "size":5000
                         }
                      ]
-                  },
-                  {
-                     "name":"Highest Point - Baekdu Mountain",
-                     "size":11275
-                  },
-                  {
-                     "name":"Office held by Head of government - Premier of North Korea",
-                     "size":11275
-                  },
-                  {
-                     "name":"currency - North Korean won",
-                     "size":11275
-                  },
-                  {
-                     "name":"official language - Korean",
-                     "size":11275
-                  },
-                  {
-                     "name":"country calling code - +850",
-                     "size":11275
-                  },
-                  {
-                     "name":"driving side - right",
-                     "size":11275
-                  },
-                  {
-                     "name":"capital - Pyongyang",
-                     "size":11275
                   }
                ]
             },
@@ -3024,15 +2820,15 @@
                      "children":[
                         {
                            "name":"North Korea",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"People's Republic of China",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Japan",
-                           "size":853
+                           "size":5000
                         }
                      ]
                   },
@@ -3040,28 +2836,28 @@
                      "name":"Demonym",
                      "children":[
                         {
-                           "name":"Zuid-Koreaan (Dutch)",
-                           "size":698
+                           "name":"Zuid-Koreaan",
+                           "size":5000
                         },
                         {
-                           "name":"South Korean (English)",
-                           "size":5569
+                           "name":"South Korean",
+                           "size":5000
                         },
                         {
-                           "name":"sud-coréen (French)",
-                           "size":853
+                           "name":"sud-coréen",
+                           "size":5000
                         },
                         {
-                           "name":"dél-koreai (Hungarian)",
-                           "size":5569
+                           "name":"dél-koreai",
+                           "size":5000
                         },
                         {
-                           "name":"한국인 (Korean)",
-                           "size":353
+                           "name":"한국인",
+                           "size":5000
                         },
                         {
-                           "name":"Sud-Koreano (Ido)",
-                           "size":5569
+                           "name":"Sud-Koreano",
+                           "size":5000
                         }
                      ]
                   },
@@ -3070,11 +2866,11 @@
                      "children":[
                         {
                            "name":"Schuko",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Europlug",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -3083,7 +2879,7 @@
                      "children":[
                         {
                            "name":"Korean",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -3092,19 +2888,19 @@
                      "children":[
                         {
                            "name":"1990: 42,869,283±0",
-                           "size":698
+                           "size":3000
                         },
                         {
                            "name":"2000: 47,008,111±0",
-                           "size":5569
+                           "size":4500
                         },
                         {
                            "name":"2010: 49,410,366±0",
-                           "size":698
+                           "size":6000
                         },
                         {
                            "name":"2013: 50,219,669±0",
-                           "size":5569
+                           "size":7000
                         }
                      ]
                   },
@@ -3113,7 +2909,7 @@
                      "children":[
                         {
                            "name":".kr",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -3122,7 +2918,7 @@
                      "children":[
                         {
                            "name":"UTC+09:00",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -3131,43 +2927,43 @@
                      "children":[
                         {
                            "name":"New Year of a calendar",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Korean New Year",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Buddha's birthday",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Children's day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Memorial Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Gwangbokjeol",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Chuseok",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Gaecheonjeol",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Hangul Day",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Christmas",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -3176,63 +2972,63 @@
                      "children":[
                         {
                            "name":"Organisation for Economic Co-operation and Development",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"United Nations",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"World Trade Organizations",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"G20",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Asia-Pacific Economic Cooperation",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Bank for Reconstruction and Development",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"International Development Association",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Finance Corporation",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Multilateral Investment Guarantee Agency",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"International Centre for Settlement of Investment Disputes",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"African Development Bank",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"African Union – United Nations Hybrid Operation in Darfur",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Association of Southeast Asian Nations Regional Forum",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Asian Development Bank",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Australia Group",
-                           "size":698
+                           "size":5000
                         }
                      ]
                   },
@@ -3241,35 +3037,35 @@
                      "children":[
                         {
                            "name":"Canada",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Italy",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Germany",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Australia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Japan",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"People's Republic of China",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Russia",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"United States of America",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -3278,47 +3074,47 @@
                      "children":[
                         {
                            "name":"Park Geun-hye",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Lee Myung-bak",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Roh Moo-hyun",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Kim Dae-jung",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Kim Young-sam",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Roh Tae-woo",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Chun Doo-hwan",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Choi Kyu-ha",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Park Chung-hee",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Yun Posun",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Rhee Syng-man",
-                           "size":5569
+                           "size":5000
                         }
                      ]
                   },
@@ -3327,71 +3123,71 @@
                      "children":[
                         {
                            "name":"Seoul",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"Busan",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Daegu",
-                           "size":853
+                           "size":5000
                         },
                         {
                            "name":"Incheon",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Gwangju",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Daejeon",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Ulsan",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Sejong City",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Gyeonggi Province",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"Gangwon Province",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"North Chungcheong Province",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"South Chungcheong Province",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"North Jeolla Province",
-                           "size":2247
+                           "size":5000
                         },
                         {
                            "name":"South Jeolla Province",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"North Gyeongsang Province",
-                           "size":353
+                           "size":5000
                         },
                         {
                            "name":"South Gyeongsang Province",
-                           "size":5569
+                           "size":5000
                         },
                         {
                            "name":"Jeju Province",
-                           "size":353
+                           "size":5000
                         }
                      ]
                   },
@@ -3400,53 +3196,13 @@
                      "children":[
                         {
                            "name":"republic",
-                           "size":698
+                           "size":5000
                         },
                         {
                            "name":"presidential system",
-                           "size":5569
+                           "size":5000
                         }
                      ]
-                  },
-                  {
-                     "name":"Highest Point - Hallasan",
-                     "size":11275
-                  },
-                  {
-                     "name":"office held by Head of government - President of South Korea",
-                     "size":11275
-                  },
-                  {
-                     "name":"currency - South Korean won",
-                     "size":11275
-                  },
-                  {
-                     "name":"legislative body - National Assembly",
-                     "size":11275
-                  },
-                  {
-                     "name":"Highest judicial authority - Supreme Court of South Korea",
-                     "size":11275
-                  },
-                  {
-                     "name":"country calling code - +82",
-                     "size":11275
-                  },
-                  {
-                     "name":"Continent - Asia",
-                     "size":11275
-                  },
-                  {
-                     "name":"driving side - right",
-                     "size":11275
-                  },
-                  {
-                     "name":"capital - Seoul",
-                     "size":11275
-                  },
-                  {
-                     "name":"deepest point - Sea of Japan ",
-                     "size":11275
                   }
                ]
             }
